@@ -1,0 +1,277 @@
+/*General*/
+body {
+  font-family: "Nunito", Verdana;
+  color: #444444;
+  /* display: flexbox; */
+  /* position: center; */
+  overflow-x: hidden;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Nunito", sans-serif;
+  /* color: #ffffff; */
+  font-size: 25px;
+}
+
+.img1 {
+  width: 334px;
+  height: 335px;
+  /* position: fixed; */
+  /* right: 950px; */
+  /* top: 200px; */
+  z-index: 9;
+}
+
+.middlen {
+  /* display: flex; */
+  /* vertical-align: middle; */
+  padding-top: 0.4rem;
+  /* padding-bottom: 0.4rem; */
+}
+
+.form-group.row {
+  padding-left: 1rem;
+}
+.shadow {
+  border-radius: 18px;
+}
+/*Card*/
+
+.card {
+  /* width: 550px; */
+  padding: 10px;
+  border-radius: 20px;
+  background: #fff;
+  border: none;
+  /* height: 350px; */
+  /* position: center; */
+  box-shadow: 0px 16px 20px 2px rgba(1, 32, 78, 0.5);
+}
+
+/* .container {
+    height: 10vh
+} */
+
+body {
+  background: linear-gradient(
+    90deg,
+    rgb(33, 68, 151) 35%,
+    rgb(9, 82, 228) 100%
+  );
+}
+
+.mobile-text {
+  color: #989696b8;
+  font-size: 15px;
+}
+
+.form-control {
+  margin-right: 12px;
+}
+
+.form-control:focus {
+  color: #495057;
+  background-color: #fff;
+  border-color: #ff8880;
+  outline: 0;
+  box-shadow: none;
+}
+
+.cursor {
+  cursor: pointer;
+}
+
+/*Header*/
+
+#header.header-scrolled {
+  padding: 1px 0;
+  box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.1);
+}
+#header .logo img {
+  max-height: 70px;
+}
+
+#img-logistica {
+  height: 50vh;
+  width: 50vh;
+}
+
+.btnconfirm{
+  border-radius: 10px;
+}
+
+
+/* overlay */
+#overlay{	
+  position: fixed;
+  top: 0;
+  z-index: 100;
+  width: 100%;
+  height:100%;
+  background: rgba( 255, 255, 255, 0.25 );
+  display: none;
+  cursor: wait;
+}
+
+/* region spinner */
+.sk-folding-cube {
+  margin: 20px auto;
+  width: 60px;
+  height: 60px;
+  position: relative;
+  -webkit-transform: rotateZ(45deg);
+          transform: rotateZ(45deg);
+}
+
+.sk-folding-cube .sk-cube {
+  float: left;
+  width: 50%;
+  height: 50%;
+  position: relative;
+  -webkit-transform: scale(1.1);
+      -ms-transform: scale(1.1);
+          transform: scale(1.1); 
+}
+.sk-folding-cube .sk-cube:before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgb(33, 68, 151);
+  -webkit-animation: sk-foldCubeAngle 2.4s infinite linear both;
+          animation: sk-foldCubeAngle 2.4s infinite linear both;
+  -webkit-transform-origin: 100% 100%;
+      -ms-transform-origin: 100% 100%;
+          transform-origin: 100% 100%;
+}
+.sk-folding-cube .sk-cube2 {
+  -webkit-transform: scale(1.1) rotateZ(90deg);
+          transform: scale(1.1) rotateZ(90deg);
+}
+.sk-folding-cube .sk-cube3 {
+  -webkit-transform: scale(1.1) rotateZ(180deg);
+          transform: scale(1.1) rotateZ(180deg);
+}
+.sk-folding-cube .sk-cube4 {
+  -webkit-transform: scale(1.1) rotateZ(270deg);
+          transform: scale(1.1) rotateZ(270deg);
+}
+.sk-folding-cube .sk-cube2:before {
+  -webkit-animation-delay: 0.3s;
+          animation-delay: 0.3s;
+}
+.sk-folding-cube .sk-cube3:before {
+  -webkit-animation-delay: 0.6s;
+          animation-delay: 0.6s; 
+}
+.sk-folding-cube .sk-cube4:before {
+  -webkit-animation-delay: 0.9s;
+          animation-delay: 0.9s;
+}
+@-webkit-keyframes sk-foldCubeAngle {
+  0%, 10% {
+    -webkit-transform: perspective(140px) rotateX(-180deg);
+            transform: perspective(140px) rotateX(-180deg);
+    opacity: 0; 
+  } 25%, 75% {
+    -webkit-transform: perspective(140px) rotateX(0deg);
+            transform: perspective(140px) rotateX(0deg);
+    opacity: 1; 
+  } 90%, 100% {
+    -webkit-transform: perspective(140px) rotateY(180deg);
+            transform: perspective(140px) rotateY(180deg);
+    opacity: 0; 
+  } 
+}
+
+@keyframes sk-foldCubeAngle {
+  0%, 10% {
+    -webkit-transform: perspective(140px) rotateX(-180deg);
+            transform: perspective(140px) rotateX(-180deg);
+    opacity: 0; 
+  } 25%, 75% {
+    -webkit-transform: perspective(140px) rotateX(0deg);
+            transform: perspective(140px) rotateX(0deg);
+    opacity: 1; 
+  } 90%, 100% {
+    -webkit-transform: perspective(140px) rotateY(180deg);
+            transform: perspective(140px) rotateY(180deg);
+    opacity: 0; 
+  }
+}
+
+/*
+.btn-agregar {
+  background-color: #4CAF50; 
+  border-radius: 10px;
+  color : white;
+  padding: 10px 20px;
+  cursor: pointer;
+}
+
+.btn-agregar:hover {
+  background-color: #4CAF50;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 1);
+  font-size: 1.2em 
+}
+
+.btn-quitar {
+  background-color: #cc0000; 
+  border-radius: 10px;
+  color : white;
+  padding: 10px 20px;
+  cursor: pointer;
+ 
+}
+
+.btn-quitar:hover {
+  background-color: #a30505;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 1);
+  font-size: 1.2em 
+}
+.botones-derecha {
+  display:flex;
+  min-height: 100%;
+  padding: auto;
+  align-items:stretch ;
+  margin-bottom: 5px;
+  margin-left: 30px;
+}
+
+.btn { 
+  margin-left: 60px;
+  text-align: center;
+  right: 50px;
+}
+
+
+#deposito {
+  align-items: center;
+  margin-left: 35px;
+}
+
+
+#selectedDepositos {
+  align-items: center;
+  margin-left: 35px;
+}
+
+*/
+#add, #remove {
+  margin-top: 10px; /* Ajusta este valor según tus necesidades */
+  margin-bottom: 10px;
+  width: 100px;
+  height: 40px;
+
+}
+
+.row {
+  margin-left: 0px;
+}

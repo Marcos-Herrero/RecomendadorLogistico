@@ -1,0 +1,67 @@
+-Arquitectura(Rutas relativas a \AIRecomendadorLogistica)
+Se creo al archivo de entorno virtual llamado ".venv"
+Se agrego la carpeta datos en "aplicacion\aplicacion"
+Se cambio de ubicacion a los archivos .pickle de "aplicacion\aplicacion" a "aplicacion\aplicacion\datos"
+
+-General
+Instalacion de modulos:
+. flask
+. flask_wtf
+. flask_bootsrap
+. pickle
+. pulp
+. openpyxl
+. mstrio
+. pymssql 
+. CBC para que este modulo funcione se debera realizar los siguientes pasos:
+1. Abre el "Panel de control" de Windows y selecciona "Sistema y seguridad" -> "Sistema" -> "Configuración avanzada del sistema" -> "Variables de entorno".
+2. En la sección "Variables del sistema", selecciona la variable llamada "Path" y haz clic en "Editar".
+3. Hacer clic en "Nuevo" y agregar el camino absoluto a "AIRecomendadorLogistica\Cbc-2.10-win64-msvc15-mdd\bin", por ejemplo, "C:\Ruta\Al\Archivo\AIRecomendadorLogistica\Cbc-2.10-win64-msvc15-mdd\bin"
+
+-Archivo "app.py"
+Cambios en los import de los archivos "forms", "funciones_Modelos" y "extract_data" de "from .[archivo] import [funcion/es]" a "import [archivo]; from forms import [funcion/es]"
+Se comento la linea 11 "#import extract_data; from extract_data import *"
+Se comento la linea 20 y se traslado su contenido "app.run(debug=True)" al final del archivo
+En la funcion "generar_reporte" se comento las siguiente lineas:
+. pickle.dump(stock_df, open("data_stock_limpio_I.pickle", "wb")) 
+. pickle.dump(sales_df, open("data_ov_limpio_I.pickle", "wb")) 
+. pickle.dump(preferences_df, open("preferences_df_limpio_I.pickle", "wb"))
+En la funcion "inicio" se modifico las siguientes lineas:
+. "pickle.load(open("data_ov_limpio_I.pickle", "rb"))" se modifico a "pickle.load(open("aplicacion\\aplicacion\\datos\\data_ov_limpio_I.pickle", "rb"))" (aplica a las siguiente 2 lineas sin modificar el archivo .pickle)
+. "pickle.dump(data_ov, open("data_ov.pickle", "wb"))" se modifico a "pickle.dump(data_ov, open("aplicacion\\aplicacion\\datos\\data_ov.pickle", "wb"))" (aplica a la siguiente linea sin modificar el archivo .pickle)
+En la funcion "seleccion_parametros" se modifico las siguientes lineas:
+. "data_stock = pickle.load(open("data_stock.pickle", "rb"))" se modifico a "data_stock = pickle.load(open("aplicacion\\aplicacion\\datos\\data_stock.pickle", "rb"))"
+. "depositos = list(data_stock.deposito.unique())" se modifico a "depositos = list(data_stock["deposito"].unique())"
+. Se elimino el bloque "try" dejando su contenido en la funcion, se elimino el bloque "except" y se comento el contenido del bloque
+
+-Archivo "funciones_Modelos.py"
+Se le agrego en la linea 8 "import openpyxl"
+Se modifico la linea "pd.set_option('display.max_rows', None)" a "pd.set_option('display.max_rows', 100)"
+En la funcion "get_ovstock_group_quantity", la linea "df_gstock = data_stock.groupby(['articulo', 'deposito', 'periodo']).agg({'cajas': np.sum})" a "df_gstock = data_stock.groupby(['articulo', 'deposito', 'periodo']).agg({'cajas': np.sum})"
+En la funcion "get_useful_life" se modifico la linea "vu_periodo = (1/data_stock.groupby(['deposito', 'periodo']).agg({'vida_util': np.mean})).round(5)" a "	vu_periodo = (1/data_stock.groupby(['deposito', 'periodo']).agg({'vida_util': 'mean'})).round(5)"
+En la funcion "make_reduced_groups" se modifica las siguientes lineas:
+. "lista_nro_ordenes_de_venta = data_ov.nro_orden.unique()" a "lista_nro_ordenes_de_venta = data_ov["nro_orden"].unique()"
+. En la condicion "if" se agrega la linea "columnas_no_vacias = df_cliente.columns[~df_cliente.isna().all()]"
+. "aux = pd.concat([aux,df_cliente])" a "aux = pd.concat([aux,df_cliente[columnas_no_vacias]], axis=0)"
+En la funcion "algoritmo_principal" se modifican las siguientes lineas:
+. "print("STOCK ACTUAL:",new_stock.deposito.unique())" a "print("STOCK ACTUAL:",new_stock["deposito"].unique())"
+. "print("ORDENES COMPLEATADAS",df.nro_orden.nunique())" a "print("ORDENES COMPLEATADAS",df["nro_orden"].nunique())"
+En la funcion "main" se modifican las siguiente lineas:
+. "data_ov_I = pickle.load(open("data_ov_limpio_I.pickle", "rb"))" a "data_ov_I = pickle.load(open("aplicacion\\aplicacion\\datos\\data_ov_limpio_I.pickle", "rb"))" (aplica a las siguiente 2 lineas sin modificar el archivo .pickle)
+. Se elimina el bloque "try" de la linea 918 dejando su contenido en la funcion, se elimina el bloque except
+. En la linea 964 se modifico a "salida_base.reindex(columns=['orden_de_venta','articulo_id','articulo_desc','deposito','lote','cantidad_a_despachar','vida_util','cliente_id','nombre_del_cliente','fecha_rec']).reset_index(drop=True).to_excel('aplicacion\\aplicacion\\templates\\salida_final.xlsx',index=False)"
+En la funcion "get_optimizacion_model_new" se modifico las siguientes lineas:
+. Se comento la linea 720 "solver_e = pl.getSolver('COIN_CMD')"
+. Se modifico la linea 721, de "optimizacion_model.solve(solver_e)" a "optimizacion_model.solve()"
+En la funcion "greedyAlg" se modificaron las siguientes lineas:
+. Se agrego "cont = newStock.shape[0]" antes del bucle "while"
+. Se agrego "if cont == 0: break" despues del bucle "while"
+. Se agrego "cont -= 1" despues del condicional "if"
+En la funcion "performance_antes_desp" se modificaron las variables del tipo "Vence10Dias = data_stock.query('vida_util<130').sum()['cajas']" a "Vence10Dias = data_stock.query('vida_util<130')['cajas'].sum()" (aplica a las demas variables con diferentes dias)
+
+-Archivo "procesamiento_datos.py"
+Se le agrego en la linea 7 "import funciones_Modelos; from funciones_Modelos import *"
+
+-Archivo "aplicacion\aplicacion\templates\seleccion_parametros.html"
+Linea 53, se le agrego al contenido de la funcion "selectAllOptions": "return true"
+Linea 148, se agrego al tag "<form>" lo siguiente: onsubmit="selectAllOptions(getElementById('selectedDepositos'))"

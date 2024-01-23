@@ -1,0 +1,1 @@
+-libpath:/c/projects/dist/lib libOsi.lib   -libpath:/c/projects/dist/lib libCoinUtils.lib   

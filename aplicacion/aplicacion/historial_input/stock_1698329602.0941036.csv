@@ -1,0 +1,789 @@
+,Depósito Padre,Descripción,cajas_x_pallets,Dias al Vencimiento,Lote,SKU,Fecha de Vencimiento,Cajas Disponibles
+0,       CDGD,"AC,CADA DIA,GIR,12X900ML,B,ESP,M.I.",105,537,160423                        ,6010040111               ,4/15/2025,571.0
+1,       CDGD,"AC,CADA DIA,GIR,12X900ML,B,ESP,M.I.",105,715,041023                        ,6010040111               ,10/10/2025,110.0
+2,       CDGD,"AC,COPISI,GIR/OLIVA,12X500ML,B,ESP,M.I./ARL",144,501,110323                        ,6011270001               ,3/10/2025,49.0
+3,       CDGD,"AC,COPISI,GIR/OLIVA,12X500ML,B,ESP,M.I./ARL",144,692,180923                        ,6011270001               ,9/17/2025,1854.0
+4,       CDGD,"AC,COPISI,GIR/OLIVA,12X900ML,B,ESP,M.I./ARL",105,326,180922                        ,6011270002               ,9/16/2024,0.0
+5,       CDGD,"AC,COPISI,GIR/OLIVA,12X900ML,B,ESP,M.I./ARL",105,392,211122                        ,6011270002               ,11/21/2024,1256.0
+6,       CDGD,"AC,FAMILIAR,94%SOJ-6%GIR,4X5L,C,ESP,ESP.P.TRATADO NO RETORNA",60,669,250823                        ,6010020204               ,8/25/2025,5.0
+7,       CDGD,"AC,FAMILIAR,94%SOJ-6%GIR,4X5L,C,ESP,ESP.P.TRATADO NO RETORNA",60,713,091023                        ,6010020204               ,10/8/2025,480.0
+8,       CDGD,"AC,FAMILIAR,GIR,12X1,5L,B,ESP,M.I.",60,319,100922                        ,6010020199               ,9/9/2024,79.0
+9,       CDGD,"AC,FAMILIAR,GIR,12X1,5L,B,ESP,M.I.",60,341,031022                        ,6010020199               ,10/1/2024,720.0
+10,       CDGD,"AC,MAZOLA CLA,MAIZ,12X900ML,B,ESP,M.I.",105,644,310723                        ,6010950016               ,7/31/2025,6444.0
+11,       CDGD,"AC,MAZOLA CLA,MAIZ,12X900ML,B,ESP,M.I.",105,666,210823                        ,6010950016               ,8/22/2025,2940.0
+12,       CDGD,"AC,NATURA ANDINO,OLIVA VE,6X500ML,E,ESP,M.I.",185,710,031023                        ,6010900033               ,10/5/2025,3700.0
+13,       CDGD,"AC,NATURA CL,OLIVA VE,12X500ML,C,ESP,M.I.",160,510,210323                        ,6010900031               ,3/19/2025,717.0
+14,       CDGD,"AC,NATURA CL,OLIVA VE,6X1LT,D(LATA),ESP,M.I.",156,515,250323                        ,6010900002               ,3/24/2025,65.0
+15,       CDGD,"AC,NATURA FUERTE TRI,OLIVA VE,12X500ML,C,ESP,M.I.",160,711,071023                        ,6010900037               ,10/6/2025,3745.0
+16,       CDGD,"AC,NATURA INT,OLIVA VE,6X1LT,D(LATA),ESP,M.I.",156,517,250323                        ,6010900018               ,3/26/2025,727.0
+17,       CDGD,"AC,NATURA INT,OLIVA VE,6X500ML,D(LATA),ESP,M.I.",304,512,220323                        ,6010900017               ,3/21/2025,234.0
+18,       CDGD,"AC,NATURA SELECCION ESPECIAL,OLIVA VE,6X500ML,E,ESP,M.I.",185,491,240223                        ,6010900024               ,2/28/2025,572.0
+19,       CDGD,"AC,NATURA SUAVE BI,OLIVA VE,12X500ML,C,ESP,M.I.",160,711,071023                        ,6010900040               ,10/6/2025,3744.0
+20,       CDGD,"AC,NATURA,GIR,12X1,5L,C,ESP,M.I./ARL",60,698,240923                        ,6010010007               ,9/23/2025,74.0
+21,       CDGD,"AC,NATURA,GIR,12X1,5L,C,ESP,M.I./ARL",60,711,071023                        ,6010010007               ,10/6/2025,0.0
+22,       CDGD,"AC,NATURA,GIR,12X1,5L,C,ESP,M.I./ARL",60,720,161023                        ,6010010007               ,10/15/2025,24060.0
+23,       CDGD,"AC,NATURA,GIR,12X500ML,C,ESP,M.I.",160,326,170922                        ,6010010184               ,9/16/2024,80.0
+24,       CDGD,"AC,NATURA,GIR,12X500ML,C,ESP,M.I.",160,354,161022                        ,6010010184               ,10/14/2024,160.0
+25,       CDGD,"AC,NATURA,GIR,12X500ML,C,ESP,M.I.",160,415,151222                        ,6010010184               ,12/14/2024,183.0
+26,       CDGD,"AC,NATURA,GIR,15X900ML,C,ESP,M.I.",72,283,060822                        ,6010010077               ,8/4/2024,0.0
+27,       CDGD,"AC,NATURA,GIR,15X900ML,C,ESP,M.I.",72,683,090923                        ,6010010077               ,9/8/2025,0.0
+28,       CDGD,"AC,NATURA,GIR,15X900ML,C,ESP,M.I.",72,704,290923                        ,6010010077               ,9/29/2025,0.0
+29,       CDGD,"AC,NATURA,GIR,15X900ML,C,ESP,M.I.",72,726,231023                        ,6010010077               ,10/21/2025,14690.0
+30,       CDGD,"AC,NATURA,GIR,15X900ML,C,ESP,M.I.",72,729,251023                        ,6010010077               ,10/24/2025,16200.0
+31,       CDGD,"AC,NATURA,GIR,4X5L,C,ESP,M.I./ARL",60,685,110923                        ,6010010112               ,9/10/2025,26.0
+32,       CDGD,"AC,NATURA,GIR,4X5L,C,ESP,M.I./ARL",60,694,190923                        ,6010010112               ,9/19/2025,0.0
+33,       CDGD,"AC,NATURA,GIR,4X5L,C,ESP,M.I./ARL",60,702,280923                        ,6010010112               ,9/27/2025,12.0
+34,       CDGD,"AC,NATURA,GIR,6X3L,B,ESP,M.I./ARL",50,657,120823                        ,6010010008               ,8/13/2025,4.0
+35,       CDGD,"AC,NATURA,GIR,6X3L,B,ESP,M.I./ARL",50,706,021023                        ,6010010008               ,10/1/2025,1610.0
+36,       CDGD,"AC,NATURA,GIR/OLIVA,12X1,5L,C,ESP,M.I.",60,533,120423                        ,6011570002               ,4/11/2025,3349.0
+37,       CDGD,"AC,NATURA,GIR/OLIVA,12X500ML,C,ESP,M.I.",160,511,210323                        ,6011570005               ,3/20/2025,1540.0
+38,       CDGD,"AC,NATURA,GIR/OLIVA,12X500ML,C,ESP,M.I.",160,6276,031122                        ,6011570005               ,12/31/2040,53.0
+39,       CDGD,"AC,NATURA,GIR/OLIVA,15X900ML,C,ESP,M.I.",72,532,090423                        ,6011570001               ,4/10/2025,3630.0
+40,       CDGD,"AC,SOJOLA,SOJA,12X1,5L,B,ESP,M.I.",60,504,120323                        ,6010570019               ,3/13/2025,0.0
+41,       CDGD,"KET,NATURA L.G.,12,250 GR,DP,CT (CON TAPA),ESP,MERCADO INTER",260,200,180723                        ,6040100010               ,5/13/2024,0.0
+42,       CDGD,"KET,NATURA L.G.,12,250 GR,DP,CT (CON TAPA),ESP,MERCADO INTER",260,228,150823                        ,6040100010               ,6/10/2024,0.0
+43,       CDGD,"KET,NATURA L.G.,12,250 GR,DP,CT (CON TAPA),ESP,MERCADO INTER",260,284,101023                        ,6040100010               ,8/5/2024,2952.0
+44,       CDGD,"KET,NATURA,12,500 G,DP,CT,ESP,M.I.",144,214,010823                        ,6040100009               ,5/27/2024,74.0
+45,       CDGD,"KET,NATURA,12,500 G,DP,CT,ESP,M.I.",144,247,030923                        ,6040100009               ,6/29/2024,144.0
+46,       CDGD,"KET,NATURA,192,8 G,SH,ST,ESP,M.I.",377,168,150823                        ,6040100001               ,4/11/2024,1013.0
+47,       CDGD,"KET,NATURA,4,3000GR,SH,ST,ESP,M.I.",80,267,230923                        ,6040100003               ,7/19/2024,320.0
+48,       CDGD,"MAYO,CADA DIA,LIGHT,12,250 CC,DP,ST (SIN TAPA),ESP,M.I./ARL",260,254,R101023                       ,6030330001               ,7/6/2024,520.0
+49,       CDGD,"MAYO,CADA DIA,LINEA DEL CHEF,4,2900 CC,SH,ST (SIN TAPA),ESP,",80,158,R060723                       ,6030050074               ,4/1/2024,8.0
+50,       CDGD,"MAYO,CADA DIA,LINEA DEL CHEF,4,2900 CC,SH,ST (SIN TAPA),ESP,",80,159,R070723                       ,6030050074               ,4/2/2024,80.0
+51,       CDGD,"MAYO,CADA DIA,RVL,12,250 CC,L.G,DP,ST (SIN TAPA),ESP,MERCADO",260,132,R100623                       ,6030050070               ,3/6/2024,0.0
+52,       CDGD,"MAYO,CADA DIA,RVL,12,250 CC,L.G,DP,ST (SIN TAPA),ESP,MERCADO",260,201,R180823                       ,6030050070               ,5/14/2024,40.0
+53,       CDGD,"MAYO,CADA DIA,RVL,12,250 CC,L.G,DP,ST (SIN TAPA),ESP,MERCADO",260,253,R091023                       ,6030050070               ,7/5/2024,0.0
+54,       CDGD,"MAYO,CADA DIA,RVL,12,250 CC,L.G,DP,ST (SIN TAPA),ESP,MERCADO",260,255,R111023                       ,6030050070               ,7/7/2024,0.0
+55,       CDGD,"MAYO,CADA DIA,RVL,12,250 CC,L.G,DP,ST (SIN TAPA),ESP,MERCADO",260,256,R121023                       ,6030050070               ,7/8/2024,80.0
+56,       CDGD,"MAYO,CADA DIA,RVL,12,250 CC,L.G,DP,ST (SIN TAPA),ESP,MERCADO",260,261,R171023                       ,6030050070               ,7/13/2024,260.0
+57,       CDGD,"MAYO,CADA DIA,RVL,12,500 CC,L.G,DP,CT,ESP,MERCADO INTERNO",144,253,R091023                       ,6030050071               ,7/5/2024,2042.0
+58,       CDGD,"MAYO,CADA DIA,RVL,12,500 CC,L.G,DP,CT,ESP,MERCADO INTERNO",144,254,R101023                       ,6030050071               ,7/6/2024,2016.0
+59,       CDGD,"MAYO,CADA DIA,RVL,12,500 CC,L.G,DP,CT,ESP,MERCADO INTERNO",144,255,R111023                       ,6030050071               ,7/7/2024,1728.0
+60,       CDGD,"MAYO,CADA DIA,RVL,12,500 CC,L.G,DP,CT,ESP,MERCADO INTERNO",144,257,R131023                       ,6030050071               ,7/9/2024,1872.0
+61,       CDGD,"MAYO,CADA DIA,RVL,12,500 CC,L.G,DP,CT,ESP,MERCADO INTERNO",144,261,R171023                       ,6030050071               ,7/13/2024,4320.0
+62,       CDGD,"MAYO,CADA DIA,RVL,12,500 CC,L.G,DP,CT,ESP,MERCADO INTERNO",144,263,R191023                       ,6030050071               ,7/15/2024,3456.0
+63,       CDGD,"MAYO,CADA DIA,RVL,20,125 CC,L.G,SH,ST (SIN TAPA),ESP,M.I./AR",272,180,R280723                       ,6030050069               ,4/23/2024,204.0
+64,       CDGD,"MAYO,CADA DIA,RVL,20,125 CC,L.G,SH,ST (SIN TAPA),ESP,M.I./AR",272,253,R091023                       ,6030050069               ,7/5/2024,2788.0
+65,       CDGD,"MAYO,CADA DIA,RVL,20,125 CC,L.G,SH,ST (SIN TAPA),ESP,M.I./AR",272,254,R101023                       ,6030050069               ,7/6/2024,6800.0
+66,       CDGD,"MAYO,CADA DIA,RVL,20,125 CC,L.G,SH,ST (SIN TAPA),ESP,M.I./AR",272,255,R111023                       ,6030050069               ,7/7/2024,7344.0
+67,       CDGD,"MAYO,CADA DIA,RVL,20,125 CC,L.G,SH,ST (SIN TAPA),ESP,M.I./AR",272,257,R131023                       ,6030050069               ,7/9/2024,7150.0
+68,       CDGD,"MAYO,CADA DIA,RVL,20,125 CC,L.G,SH,ST (SIN TAPA),ESP,M.I./AR",272,261,R171023                       ,6030050069               ,7/13/2024,8160.0
+69,       CDGD,"MAYO,CADA DIA,RVL,20,125 CC,L.G,SH,ST (SIN TAPA),ESP,M.I./AR",272,263,R191023                       ,6030050069               ,7/15/2024,5440.0
+70,       CDGD,"MAYO,CADA DIA,RVL,8,1000 CC,L.G,DP,CT,ESP,MERCADO INTERNO",108,177,R250723                       ,6030050072               ,4/20/2024,720.0
+71,       CDGD,"MAYO,CADA DIA,RVL,8,1000 CC,L.G,DP,CT,ESP,MERCADO INTERNO",108,225,R110923                       ,6030050072               ,6/7/2024,0.0
+72,       CDGD,"MAYO,MAYOLIVA,L.G,12,250 CC,DP,ST (SIN TAPA),ESP,M.I./ARL",260,163,110623                        ,6030040040               ,4/6/2024,37.0
+73,       CDGD,"MAYO,MAYOLIVA,L.G,12,250 CC,DP,ST (SIN TAPA),ESP,M.I./ARL",260,229,160823                        ,6030040040               ,6/11/2024,3.0
+74,       CDGD,"MAYO,MAYOLIVA,L.G,12,250 CC,DP,ST (SIN TAPA),ESP,M.I./ARL",260,238,250823                        ,6030040040               ,6/20/2024,1740.0
+75,       CDGD,"MAYO,MAYOLIVA,L.G,12,500 CC,DP,CT,ESP,M.I./ARL",144,229,160823                        ,6030040007               ,6/11/2024,1039.0
+76,       CDGD,"MAYO,MAYOLIVA,L.G,20,125 CC,SH,ST (SIN TAPA),ESP,M.I./ARL",272,238,250823                        ,6030040073               ,6/20/2024,457.0
+77,       CDGD,"MAYO,NATURA,RVL 31%,L.G,12,250 CC,DP,ST (SIN TAPA),ESP,M.I./",260,153,010723                        ,6030010007               ,3/27/2024,0.0
+78,       CDGD,"MAYO,NATURA,RVL 31%,L.G,12,250 CC,DP,ST (SIN TAPA),ESP,M.I./",260,197,140823                        ,6030010007               ,5/10/2024,0.0
+79,       CDGD,"MAYO,NATURA,RVL 31%,L.G,12,250 CC,DP,ST (SIN TAPA),ESP,M.I./",260,222,080923                        ,6030010007               ,6/4/2024,179.0
+80,       CDGD,"MAYO,NATURA,RVL 31%,L.G,12,250 CC,DP,ST (SIN TAPA),ESP,M.I./",260,230,160923                        ,6030010007               ,6/12/2024,0.0
+81,       CDGD,"MAYO,NATURA,RVL 31%,L.G,12,250 CC,DP,ST (SIN TAPA),ESP,M.I./",260,233,190923                        ,6030010007               ,6/15/2024,0.0
+82,       CDGD,"MAYO,NATURA,RVL 31%,L.G,12,250 CC,DP,ST (SIN TAPA),ESP,M.I./",260,245,011023                        ,6030010007               ,6/27/2024,16960.0
+83,       CDGD,"MAYO,NATURA,RVL 31%,L.G,12,250 CC,DP,ST (SIN TAPA),ESP,M.I./",260,249,051023                        ,6030010007               ,7/1/2024,14560.0
+84,       CDGD,"MAYO,NATURA,RVL 31%,L.G,12,500 CC,DP,CT,ESP,M.I./ARL",144,205,220823                        ,6030010019               ,5/18/2024,0.0
+85,       CDGD,"MAYO,NATURA,RVL 31%,L.G,12,500 CC,DP,CT,ESP,M.I./ARL",144,207,240823                        ,6030010019               ,5/20/2024,0.0
+86,       CDGD,"MAYO,NATURA,RVL 31%,L.G,12,500 CC,DP,CT,ESP,M.I./ARL",144,215,010923                        ,6030010019               ,5/28/2024,0.0
+87,       CDGD,"MAYO,NATURA,RVL 31%,L.G,12,500 CC,DP,CT,ESP,M.I./ARL",144,224,100923                        ,6030010019               ,6/6/2024,0.0
+88,       CDGD,"MAYO,NATURA,RVL 31%,L.G,12,500 CC,DP,CT,ESP,M.I./ARL",144,228,140923                        ,6030010019               ,6/10/2024,80.0
+89,       CDGD,"MAYO,NATURA,RVL 31%,L.G,12,500 CC,DP,CT,ESP,M.I./ARL",144,229,150923                        ,6030010019               ,6/11/2024,0.0
+90,       CDGD,"MAYO,NATURA,RVL 31%,L.G,12,500 CC,DP,CT,ESP,M.I./ARL",144,250,061023                        ,6030010019               ,7/2/2024,11178.0
+91,       CDGD,"MAYO,NATURA,RVL 31%,L.G,192,8CC,SH,ST (SIN TAPA),ESP,M.I./A",377,130,080723                        ,6030010129               ,3/4/2024,285.0
+92,       CDGD,"MAYO,NATURA,RVL 31%,L.G,192,8CC,SH,ST (SIN TAPA),ESP,M.I./A",377,158,050823                        ,6030010129               ,4/1/2024,2291.0
+93,       CDGD,"MAYO,NATURA,RVL 31%,L.G,20,125 CC,SH,ST (SIN TAPA),ESP,M.I./",272,206,220823                        ,6030010170               ,5/19/2024,210.0
+94,       CDGD,"MAYO,NATURA,RVL 31%,L.G,20,125 CC,SH,ST (SIN TAPA),ESP,M.I./",272,213,300823                        ,6030010170               ,5/26/2024,0.0
+95,       CDGD,"MAYO,NATURA,RVL 31%,L.G,20,125 CC,SH,ST (SIN TAPA),ESP,M.I./",272,215,010923                        ,6030010170               ,5/28/2024,1564.0
+96,       CDGD,"MAYO,NATURA,RVL 31%,L.G,20,125 CC,SH,ST (SIN TAPA),ESP,M.I./",272,220,060923                        ,6030010170               ,6/2/2024,272.0
+97,       CDGD,"MAYO,NATURA,RVL 31%,L.G,20,125 CC,SH,ST (SIN TAPA),ESP,M.I./",272,224,100923                        ,6030010170               ,6/6/2024,272.0
+98,       CDGD,"MAYO,NATURA,RVL 31%,L.G,20,125 CC,SH,ST (SIN TAPA),ESP,M.I./",272,232,180923                        ,6030010170               ,6/14/2024,272.0
+99,       CDGD,"MAYO,NATURA,RVL 31%,L.G,20,125 CC,SH,ST (SIN TAPA),ESP,M.I./",272,235,210923                        ,6030010170               ,6/17/2024,3536.0
+100,       CDGD,"MAYO,NATURA,RVL 31%,L.G,20,125 CC,SH,ST (SIN TAPA),ESP,M.I./",272,247,031023                        ,6030010170               ,6/29/2024,24752.0
+101,       CDGD,"MAYO,NATURA,RVL 31%,L.G,20,125 CC,SH,ST (SIN TAPA),ESP,M.I./",272,251,071023                        ,6030010170               ,7/3/2024,6528.0
+102,       CDGD,"MAYO,NATURA,RVL 31%,L.G,4,2900 CC,SH,ST (SIN TAPA),ESP,M.I./",80,139,170623                        ,6030010208               ,3/13/2024,2.0
+103,       CDGD,"MAYO,NATURA,RVL 31%,L.G,4,2900 CC,SH,ST (SIN TAPA),ESP,M.I./",80,209,260823                        ,6030010208               ,5/22/2024,119.0
+104,       CDGD,"MAYO,NATURA,RVL 31%,L.G,4,2900 CC,SH,ST (SIN TAPA),ESP,M.I./",80,215,010923                        ,6030010208               ,5/28/2024,640.0
+105,       CDGD,"MAYO,NATURA,RVL 31%,L.G,4,2900 CC,SH,ST (SIN TAPA),ESP,M.I./",80,252,081023                        ,6030010208               ,7/4/2024,3200.0
+106,       CDGD,"MAYO,NATURA,RVL 31%,L.G,8,1000 CC,DP,CT,ESP,M.I./ARL",108,165,130723                        ,6030010026               ,4/8/2024,83.0
+107,       CDGD,"MAYO,NATURA,RVL 31%,L.G,8,1000 CC,DP,CT,ESP,M.I./ARL",108,215,010923                        ,6030010026               ,5/28/2024,0.0
+108,       CDGD,"MAYO,NATURA,RVL 31%,L.G,8,1000 CC,DP,CT,ESP,M.I./ARL",108,249,051023                        ,6030010026               ,7/1/2024,9432.0
+109,       CDGD,"MOSTAZA,ADEREZO NATURA,12,250GR,DP,CT,ESP,M.I.",260,220,070823                        ,6090020009               ,6/2/2024,0.0
+110,       CDGD,"MOSTAZA,ADEREZO NATURA,12,250GR,DP,CT,ESP,M.I.",260,237,240823                        ,6090020009               ,6/19/2024,524.0
+111,       CDGD,"MOSTAZA,ADEREZO NATURA,12,250GR,DP,CT,ESP,M.I.",260,256,120923                        ,6090020009               ,7/8/2024,780.0
+112,       CDGD,"MOSTAZA,ADEREZO NATURA,12,250GR,DP,CT,ESP,M.I.",260,262,140923                        ,6090020009               ,7/14/2024,1560.0
+113,       CDGD,"MOSTAZA,ADEREZO NATURA,12,250GR,DP,CT,ESP,M.I.",260,275,011023                        ,6090020009               ,7/27/2024,2600.0
+114,       CDGD,"MOSTAZA,ADEREZO NATURA,12,500G,DP,CT,ESP,M.I.",144,186,040723                        ,6090020011               ,4/29/2024,0.0
+115,       CDGD,"MOSTAZA,ADEREZO NATURA,12,500G,DP,CT,ESP,M.I.",144,220,070823                        ,6090020011               ,6/2/2024,261.0
+116,       CDGD,"MOSTAZA,ADEREZO NATURA,12,500G,DP,CT,ESP,M.I.",144,256,120923                        ,6090020011               ,7/8/2024,144.0
+117,       CDGD,"MOSTAZA,ADEREZO NATURA,192,8 G,SH,ST,ESP,M.I.",377,179,260823                        ,6090020010               ,4/22/2024,367.0
+118,       CDGD,"MOSTAZA,ADEREZO NATURA,192,8 G,SH,ST,ESP,M.I.",377,199,150923                        ,6090020010               ,5/12/2024,1508.0
+119,       CDGD,"MOSTAZA,ADEREZO NATURA,4,3000GR,SH,ST,ESP,M.I.",80,151,300523                        ,6090020012               ,3/25/2024,25.0
+120,       CDGD,"MOSTAZA,ADEREZO NATURA,4,3000GR,SH,ST,ESP,M.I.",80,237,240823                        ,6090020012               ,6/19/2024,96.0
+121,       CDGD,"MOSTAZA,ADEREZO NATURA,4,3000GR,SH,ST,ESP,M.I.",80,263,190923                        ,6090020012               ,7/15/2024,80.0
+122,       CDGD,"RO.VEG.(AL),MAZOLA CL.,MAIZ,12X120GRS,ESP,M.I.",224,688,257/23                        ,6010140007               ,9/13/2025,2602.0
+123,       CDGD,"RO.VEG.(AL),MAZOLA CL.,MAIZ,12X120GRS,ESP,M.I.",224,689,258/23                        ,6010140007               ,9/14/2025,896.0
+124,       CDGD,"RO.VEG.(AL),MAZOLA MANTECA,12X12X120GRS,ESP,M.I.",224,689,258/23                        ,6010140008               ,9/14/2025,25.0
+125,       CDGD,"RO.VEG.(AL),MAZOLA MANTECA,12X12X120GRS,ESP,M.I.",224,690,259/23                        ,6010140008               ,9/15/2025,1152.0
+126,       CDGD,"RO.VEG.(AL),MAZOLA MANTECA,12X12X120GRS,ESP,M.I.",224,692,261/23                        ,6010140008               ,9/17/2025,896.0
+127,       CDGD,"RO.VEG.(AL),NATURA,GIR,12X120GRS,ESP,M.I.",224,640,209/23                        ,6010550008               ,7/27/2025,0.0
+128,       CDGD,"RO.VEG.(AL),NATURA,GIR,12X120GRS,ESP,M.I.",224,644,213/23                        ,6010550008               ,7/31/2025,0.0
+129,       CDGD,"RO.VEG.(AL),NATURA,GIR,12X120GRS,ESP,M.I.",224,665,234/23                        ,6010550008               ,8/21/2025,0.0
+130,       CDGD,"RO.VEG.(AL),NATURA,GIR,12X120GRS,ESP,M.I.",224,666,235/23                        ,6010550008               ,8/22/2025,133.0
+131,       CDGD,"RO.VEG.(AL),NATURA,GIR,12X120GRS,ESP,M.I.",224,667,236/23                        ,6010550008               ,8/23/2025,736.0
+132,       CDGD,"RO.VEG.(AL),NATURA,GIR,12X120GRS,ESP,M.I.",224,671,240/23                        ,6010550008               ,8/27/2025,448.0
+133,       CDGD,"RO.VEG.(AL),NATURA,GIR,12X120GRS,ESP,M.I.",224,672,241/23                        ,6010550008               ,8/28/2025,224.0
+134,       CDGD,"RO.VEG.(AL),NATURA,GIR,12X120GRS,ESP,M.I.",224,673,242/23                        ,6010550008               ,8/29/2025,1568.0
+135,       CDGD,"RO.VEG.(AL),NATURA,GIR,12X120GRS,ESP,M.I.",224,674,243/23                        ,6010550008               ,8/30/2025,2240.0
+136,       CDGD,"RO.VEG.(AL),NATURA,GIR,12X120GRS,ESP,M.I.",224,681,250/23                        ,6010550008               ,9/6/2025,896.0
+137,       CDGD,"RO.VEG.(AL),NATURA,GIR,12X120GRS,ESP,M.I.",224,682,251/23                        ,6010550008               ,9/7/2025,2464.0
+138,       CDGD,"RO.VEG.(AL),NATURA,GIR,12X120GRS,ESP,M.I.",224,683,252/23                        ,6010550008               ,9/8/2025,1344.0
+139,       CDGD,"RO.VEG.(AL),NATURA,GIR,12X120GRS,ESP,M.I.",224,685,254/23                        ,6010550008               ,9/10/2025,3808.0
+140,       CDGD,"RO.VEG.(AL),NATURA,GIR,12X120GRS,ESP,M.I.",224,686,255/23                        ,6010550008               ,9/11/2025,1120.0
+141,       CDGD,"RO.VEG.(AL),NATURA,GIR,12X120GRS,ESP,M.I.",224,699,268/23                        ,6010550008               ,9/24/2025,672.0
+142,       CDGD,"RO.VEG.(AL),NATURA,GIR,12X120GRS,ESP,M.I.",224,700,269/23                        ,6010550008               ,9/25/2025,3584.0
+143,       CDGD,"RO.VEG.(AL),NATURA,GIR,12X120GRS,ESP,M.I.",224,701,270/23                        ,6010550008               ,9/26/2025,3808.0
+144,       CDGD,"RO.VEG.(AL),NATURA,GIR,12X120GRS,ESP,M.I.",224,702,271/23                        ,6010550008               ,9/27/2025,3584.0
+145,       CDGD,"RO.VEG.(AL),NATURA,GIR,12X120GRS,ESP,M.I.",224,703,272/23                        ,6010550008               ,9/28/2025,896.0
+146,       CDGD,"RO.VEG.(AL),NATURA,GIR,12X120GRS,ESP,M.I.",224,718,287/23                        ,6010550008               ,10/13/2025,448.0
+147,       CDGD,"RO.VEG.(AL),NATURA,OLIVA,12X120GRS,ESP,M.I.",224,623,192/23                        ,6011640001               ,7/10/2025,0.0
+148,       CDGD,"RO.VEG.(AL),NATURA,OLIVA,12X120GRS,ESP,M.I.",224,706,275/23                        ,6011640001               ,10/1/2025,1344.0
+149,       CDGD,"RO.VEG.(AL),NATURA,OLIVA,12X120GRS,ESP,M.I.",224,707,276/23                        ,6011640001               ,10/2/2025,199.0
+150,       CDGD,"SGOLF,NATURA L.G.,12,250 GR,DP,ST (SIN TAPA),ESP,MERCADO INT",260,184,010823                        ,6050100007               ,4/27/2024,56.0
+151,       CDGD,"SGOLF,NATURA L.G.,12,250 GR,DP,ST (SIN TAPA),ESP,MERCADO INT",260,245,011023                        ,6050100007               ,6/27/2024,4380.0
+152,       CDGD,"SGOLF,NATURA,20,125 CC,SH,ST,ESP,M.I.",272,182,300723                        ,6050100002               ,4/25/2024,1109.0
+153,       CDGD,"SGOLF,NATURA,20,125 CC,SH,ST,ESP,M.I.",272,243,290923                        ,6050100002               ,6/25/2024,544.0
+154,       CDGD,"SGOLF,NATURA,4,2900 CC,SH,ST,ESP,M.I.",80,130,080623                        ,6050100004               ,3/4/2024,0.0
+155,       CDGD,"SGOLF,NATURA,4,2900 CC,SH,ST,ESP,M.I.",80,245,011023                        ,6050100004               ,6/27/2024,160.0
+156,       CDPI,"MAYO,CADA DIA,LINEA DEL CHEF,4,2900 CC,SH,ST (SIN TAPA),ESP,",80,159,R070723                       ,6030050074               ,4/2/2024,281.0
+157,       CDPI,"MAYO,CADA DIA,LINEA DEL CHEF,4,2900 CC,SH,ST (SIN TAPA),ESP,",80,164,R120723                       ,6030050074               ,4/7/2024,480.0
+158,       CDPI,"MAYO,CADA DIA,LINEA DEL CHEF,4,2900 CC,SH,ST (SIN TAPA),ESP,",80,184,R010823                       ,6030050074               ,4/27/2024,1200.0
+159,       CDPI,"MAYO,CADA DIA,LINEA DEL CHEF,4,2900 CC,SH,ST (SIN TAPA),ESP,",80,185,R020823                       ,6030050074               ,4/28/2024,1360.0
+160,       CDPI,"MAYO,CADA DIA,LINEA DEL CHEF,4,2900 CC,SH,ST (SIN TAPA),ESP,",80,186,R030823                       ,6030050074               ,4/29/2024,2160.0
+161,       CDPI,"MAYO,CADA DIA,LINEA DEL CHEF,4,2900 CC,SH,ST (SIN TAPA),ESP,",80,207,R240823                       ,6030050074               ,5/20/2024,480.0
+162,       CDPI,"MAYO,CADA DIA,LINEA DEL CHEF,4,2900 CC,SH,ST (SIN TAPA),ESP,",80,208,R250823                       ,6030050074               ,5/21/2024,1440.0
+163,       CDPI,"MAYO,CADA DIA,LINEA DEL CHEF,4,2900 CC,SH,ST (SIN TAPA),ESP,",80,209,R260823                       ,6030050074               ,5/22/2024,880.0
+164,       CDPI,"MAYO,CADA DIA,LINEA DEL CHEF,4,2900 CC,SH,ST (SIN TAPA),ESP,",80,213,R300823                       ,6030050074               ,5/26/2024,720.0
+165,       CDPI,"MAYO,CADA DIA,LINEA DEL CHEF,4,2900 CC,SH,ST (SIN TAPA),ESP,",80,214,R310823                       ,6030050074               ,5/27/2024,720.0
+166,       CDPI,"MAYO,CADA DIA,RVL,12,250 CC,L.G,DP,ST (SIN TAPA),ESP,MERCADO",260,214,R310823                       ,6030050070               ,5/27/2024,791.0
+167,       CDPI,"MAYO,CADA DIA,RVL,12,500 CC,L.G,DP,CT,ESP,MERCADO INTERNO",144,201,R180823                       ,6030050071               ,5/14/2024,5475.0
+168,       CDPI,"MAYO,CADA DIA,RVL,12,500 CC,L.G,DP,CT,ESP,MERCADO INTERNO",144,202,R190823                       ,6030050071               ,5/15/2024,414.0
+169,       CDPI,"MAYO,CADA DIA,RVL,12,500 CC,L.G,DP,CT,ESP,MERCADO INTERNO",144,207,R240823                       ,6030050071               ,5/20/2024,5328.0
+170,       CDPI,"MAYO,CADA DIA,RVL,12,500 CC,L.G,DP,CT,ESP,MERCADO INTERNO",144,208,R250823                       ,6030050071               ,5/21/2024,8172.0
+171,       CDPI,"MAYO,CADA DIA,RVL,12,500 CC,L.G,DP,CT,ESP,MERCADO INTERNO",144,209,R260823                       ,6030050071               ,5/22/2024,2261.0
+172,       CDPI,"MAYO,CADA DIA,RVL,12,500 CC,L.G,DP,CT,ESP,MERCADO INTERNO",144,214,R310823                       ,6030050071               ,5/27/2024,1584.0
+173,       CDPI,"MAYO,CADA DIA,RVL,8,1000 CC,L.G,DP,CT,ESP,MERCADO INTERNO",108,185,R020823                       ,6030050072               ,4/28/2024,3635.0
+174,       CDPI,"MAYO,CADA DIA,RVL,8,1000 CC,L.G,DP,CT,ESP,MERCADO INTERNO",108,187,R040823                       ,6030050072               ,4/30/2024,2484.0
+175,       CDPI,"MAYO,CADA DIA,RVL,8,1000 CC,L.G,DP,CT,ESP,MERCADO INTERNO",108,188,R050823                       ,6030050072               ,5/1/2024,2648.0
+176,       CDPI,"MAYO,NATURA,RVL 31%,L.G,12,250 CC,DP,ST (SIN TAPA),ESP,M.I./",260,153,010723                        ,6030010007               ,3/27/2024,20954.0
+177,       CDPI,"MAYO,NATURA,RVL 31%,L.G,12,250 CC,DP,ST (SIN TAPA),ESP,M.I./",260,165,130723                        ,6030010007               ,4/8/2024,23210.0
+178,       CDPI,"MAYO,NATURA,RVL 31%,L.G,12,250 CC,DP,ST (SIN TAPA),ESP,M.I./",260,167,150723                        ,6030010007               ,4/10/2024,24960.0
+179,       CDPI,"MAYO,NATURA,RVL 31%,L.G,12,250 CC,DP,ST (SIN TAPA),ESP,M.I./",260,176,240723                        ,6030010007               ,4/19/2024,56160.0
+180,       CDPI,"MAYO,NATURA,RVL 31%,L.G,12,250 CC,DP,ST (SIN TAPA),ESP,M.I./",260,220,060923                        ,6030010007               ,6/2/2024,31200.0
+181,       CDPI,"MAYO,NATURA,RVL 31%,L.G,12,250 CC,DP,ST (SIN TAPA),ESP,M.I./",260,222,080923                        ,6030010007               ,6/4/2024,24960.0
+182,       CDPI,"MAYO,NATURA,RVL 31%,L.G,12,250 CC,DP,ST (SIN TAPA),ESP,M.I./",260,224,100923                        ,6030010007               ,6/6/2024,12462.0
+183,       CDPI,"MAYO,NATURA,RVL 31%,L.G,12,250 CC,DP,ST (SIN TAPA),ESP,M.I./",260,229,150923                        ,6030010007               ,6/11/2024,49920.0
+184,       CDPI,"MAYO,NATURA,RVL 31%,L.G,12,250 CC,DP,ST (SIN TAPA),ESP,M.I./",260,230,160923                        ,6030010007               ,6/12/2024,18720.0
+185,       CDPI,"MAYO,NATURA,RVL 31%,L.G,12,250 CC,DP,ST (SIN TAPA),ESP,M.I./",260,233,190923                        ,6030010007               ,6/15/2024,6240.0
+186,       CDPI,"MAYO,NATURA,RVL 31%,L.G,12,250 CC,DP,ST (SIN TAPA),ESP,M.I./",260,251,071023                        ,6030010007               ,7/3/2024,18720.0
+187,       CDPI,"MAYO,NATURA,RVL 31%,L.G,12,250 CC,DP,ST (SIN TAPA),ESP,M.I./",260,256,121023                        ,6030010007               ,7/8/2024,49920.0
+188,       CDPI,"MAYO,NATURA,RVL 31%,L.G,12,500 CC,DP,CT,ESP,M.I./ARL",144,224,100923                        ,6030010019               ,6/6/2024,2286.0
+189,       CDPI,"MAYO,NATURA,RVL 31%,L.G,12,500 CC,DP,CT,ESP,M.I./ARL",144,228,140923                        ,6030010019               ,6/10/2024,10368.0
+190,       CDPI,"MAYO,NATURA,RVL 31%,L.G,12,500 CC,DP,CT,ESP,M.I./ARL",144,229,150923                        ,6030010019               ,6/11/2024,6912.0
+191,       CDPI,"MAYO,NATURA,RVL 31%,L.G,12,500 CC,DP,CT,ESP,M.I./ARL",144,233,190923                        ,6030010019               ,6/15/2024,41472.0
+192,       CDPI,"MAYO,NATURA,RVL 31%,L.G,12,500 CC,DP,CT,ESP,M.I./ARL",144,234,200923                        ,6030010019               ,6/16/2024,6912.0
+193,       CDPI,"MAYO,NATURA,RVL 31%,L.G,20,125 CC,SH,ST (SIN TAPA),ESP,M.I./",272,161,090723                        ,6030010170               ,4/4/2024,44493.0
+194,       CDPI,"MAYO,NATURA,RVL 31%,L.G,20,125 CC,SH,ST (SIN TAPA),ESP,M.I./",272,175,230723                        ,6030010170               ,4/18/2024,39168.0
+195,       CDPI,"MAYO,NATURA,RVL 31%,L.G,20,125 CC,SH,ST (SIN TAPA),ESP,M.I./",272,179,270723                        ,6030010170               ,4/22/2024,6528.0
+196,       CDPI,"MAYO,NATURA,RVL 31%,L.G,20,125 CC,SH,ST (SIN TAPA),ESP,M.I./",272,197,140823                        ,6030010170               ,5/10/2024,19584.0
+197,       CDPI,"MAYO,NATURA,RVL 31%,L.G,20,125 CC,SH,ST (SIN TAPA),ESP,M.I./",272,199,160823                        ,6030010170               ,5/12/2024,26112.0
+198,       CDPI,"MAYO,NATURA,RVL 31%,L.G,20,125 CC,SH,ST (SIN TAPA),ESP,M.I./",272,203,200823                        ,6030010170               ,5/16/2024,13056.0
+199,       CDPI,"MAYO,NATURA,RVL 31%,L.G,20,125 CC,SH,ST (SIN TAPA),ESP,M.I./",272,206,220823                        ,6030010170               ,5/19/2024,39168.0
+200,       CDPI,"MAYO,NATURA,RVL 31%,L.G,20,125 CC,SH,ST (SIN TAPA),ESP,M.I./",272,215,010923                        ,6030010170               ,5/28/2024,32640.0
+201,       CDPI,"MAYO,NATURA,RVL 31%,L.G,20,125 CC,SH,ST (SIN TAPA),ESP,M.I./",272,218,040923                        ,6030010170               ,5/31/2024,13056.0
+202,       CDPI,"MAYO,NATURA,RVL 31%,L.G,20,125 CC,SH,ST (SIN TAPA),ESP,M.I./",272,220,060923                        ,6030010170               ,6/2/2024,32640.0
+203,       CDPI,"MAYO,NATURA,RVL 31%,L.G,20,125 CC,SH,ST (SIN TAPA),ESP,M.I./",272,224,100923                        ,6030010170               ,6/6/2024,26112.0
+204,       CDPI,"MAYO,NATURA,RVL 31%,L.G,20,125 CC,SH,ST (SIN TAPA),ESP,M.I./",272,229,150923                        ,6030010170               ,6/11/2024,39712.0
+205,       CDPI,"MAYO,NATURA,RVL 31%,L.G,20,125 CC,SH,ST (SIN TAPA),ESP,M.I./",272,232,180923                        ,6030010170               ,6/14/2024,13056.0
+206,       CDPI,"MAYO,NATURA,RVL 31%,L.G,20,125 CC,SH,ST (SIN TAPA),ESP,M.I./",272,235,210923                        ,6030010170               ,6/17/2024,13056.0
+207,       CDPI,"MAYO,NATURA,RVL 31%,L.G,4,2900 CC,SH,ST (SIN TAPA),ESP,M.I./",80,133,110623                        ,6030010208               ,3/7/2024,367.0
+208,       CDPI,"MAYO,NATURA,RVL 31%,L.G,4,2900 CC,SH,ST (SIN TAPA),ESP,M.I./",80,139,170623                        ,6030010208               ,3/13/2024,3840.0
+209,       CDPI,"MAYO,NATURA,RVL 31%,L.G,4,2900 CC,SH,ST (SIN TAPA),ESP,M.I./",80,156,040723                        ,6030010208               ,3/30/2024,9442.0
+210,       CDPI,"MAYO,NATURA,RVL 31%,L.G,4,2900 CC,SH,ST (SIN TAPA),ESP,M.I./",80,165,130723                        ,6030010208               ,4/8/2024,5760.0
+211,       CDPI,"MAYO,NATURA,RVL 31%,L.G,4,2900 CC,SH,ST (SIN TAPA),ESP,M.I./",80,197,140823                        ,6030010208               ,5/10/2024,5760.0
+212,       CDPI,"MAYO,NATURA,RVL 31%,L.G,4,2900 CC,SH,ST (SIN TAPA),ESP,M.I./",80,215,010923                        ,6030010208               ,5/28/2024,1920.0
+213,       CDPI,"MAYO,NATURA,RVL 31%,L.G,4,2900 CC,SH,ST (SIN TAPA),ESP,M.I./",80,220,060923                        ,6030010208               ,6/2/2024,7680.0
+214,       CDPI,"MAYO,NATURA,RVL 31%,L.G,8,1000 CC,DP,CT,ESP,M.I./ARL",108,165,130723                        ,6030010026               ,4/8/2024,4814.0
+215,       CDPI,"MAYO,NATURA,RVL 31%,L.G,8,1000 CC,DP,CT,ESP,M.I./ARL",108,181,290723                        ,6030010026               ,4/24/2024,3240.0
+216,       CDPI,"MAYO,NATURA,RVL 31%,L.G,8,1000 CC,DP,CT,ESP,M.I./ARL",108,215,010923                        ,6030010026               ,5/28/2024,5184.0
+217,       CDPI,"MAYO,NATURA,RVL 31%,L.G,8,1000 CC,DP,CT,ESP,M.I./ARL",108,224,100923                        ,6030010026               ,6/6/2024,15552.0
+218,       CDPI,"MOSTAZA,ADEREZO NATURA,12,250GR,DP,CT,ESP,M.I.",260,186,040723                        ,6090020009               ,4/29/2024,92.0
+219,       CDPI,"MOSTAZA,ADEREZO NATURA,12,500G,DP,CT,ESP,M.I.",144,186,040723                        ,6090020011               ,4/29/2024,63.0
+220,       CDPI,"SGOLF,NATURA,20,125 CC,SH,ST,ESP,M.I.",272,124,020623                        ,6050100002               ,2/27/2024,4074.0
+221,       CDVM,"AC,CADA DIA,GIR,12X1,5L,B,ESP,M.I.",60,502,120323                        ,6010040002               ,3/11/2025,7.0
+222,       CDVM,"AC,COPISI,GIR/OLIVA,12X500ML,B,ESP,M.I./ARL",144,295,170822                        ,6011270001               ,8/16/2024,144.0
+223,       CDVM,"AC,COPISI,GIR/OLIVA,12X500ML,B,ESP,M.I./ARL",144,392,221122                        ,6011270001               ,11/21/2024,100.0
+224,       CDVM,"AC,COPISI,GIR/OLIVA,12X900ML,B,ESP,M.I./ARL",105,294,160822                        ,6011270002               ,8/15/2024,0.0
+225,       CDVM,"AC,COPISI,GIR/OLIVA,12X900ML,B,ESP,M.I./ARL",105,326,180922                        ,6011270002               ,9/16/2024,0.0
+226,       CDVM,"AC,FAMILIAR,94%SOJ-6%GIR,4X5L,C,ESP,ESP.P.TRATADO NO RETORNA",60,527,060423                        ,6010020204               ,4/5/2025,0.0
+227,       CDVM,"AC,MAZOLA CLA,MAIZ,12X900ML,B,ESP,M.I.",105,644,310723                        ,6010950016               ,7/31/2025,60.0
+228,       CDVM,"AC,NATURA CL,OLIVA VE,12X500ML,C,ESP,M.I.",160,510,210323                        ,6010900031               ,3/19/2025,125.0
+229,       CDVM,"AC,NATURA CL,OLIVA VE,6X1LT,D(LATA),ESP,M.I.",156,515,250323                        ,6010900002               ,3/24/2025,42.0
+230,       CDVM,"AC,NATURA CL,OLIVA VE,6X500ML,D(LATA),ESP,M.I./ARL",304,513,220323                        ,6010900001               ,3/22/2025,18.0
+231,       CDVM,"AC,NATURA INT,OLIVA VE,12X500ML,C,ESP,M.I.",160,259,120722                        ,6010900032               ,7/11/2024,0.0
+232,       CDVM,"AC,NATURA INT,OLIVA VE,12X500ML,C,ESP,M.I.",160,511,210323                        ,6010900032               ,3/20/2025,68.0
+233,       CDVM,"AC,NATURA INT,OLIVA VE,6X1LT,D(LATA),ESP,M.I.",156,517,250323                        ,6010900018               ,3/26/2025,0.0
+234,       CDVM,"AC,NATURA SELECCION ESPECIAL,OLIVA VE,6X500ML,E,ESP,M.I.",185,421,211222                        ,6010900024               ,12/20/2024,301.0
+235,       CDVM,"AC,NATURA SELECCION ESPECIAL,OLIVA VE,6X500ML,E,ESP,M.I.",185,491,240223                        ,6010900024               ,2/28/2025,1850.0
+236,       CDVM,"AC,NATURA,GIR,12X1,5L,C,ESP,M.I./ARL",60,310,010922                        ,6010010007               ,8/31/2024,0.0
+237,       CDVM,"AC,NATURA,GIR,12X1,5L,C,ESP,M.I./ARL",60,648,060823                        ,6010010007               ,8/4/2025,40.0
+238,       CDVM,"AC,NATURA,GIR,12X1,5L,C,ESP,M.I./ARL",60,671,280823                        ,6010010007               ,8/27/2025,39.0
+239,       CDVM,"AC,NATURA,GIR,12X1,5L,C,ESP,M.I./ARL",60,698,240923                        ,6010010007               ,9/23/2025,30.0
+240,       CDVM,"AC,NATURA,GIR,12X1,5L,C,ESP,M.I./ARL",60,720,161023                        ,6010010007               ,10/15/2025,6092.0
+241,       CDVM,"AC,NATURA,GIR,12X500ML,C,ESP,M.I.",160,260,120722                        ,6010010184               ,7/12/2024,0.0
+242,       CDVM,"AC,NATURA,GIR,12X500ML,C,ESP,M.I.",160,372,021122                        ,6010010184               ,11/1/2024,94.0
+243,       CDVM,"AC,NATURA,GIR,12X500ML,C,ESP,M.I.",160,415,151222                        ,6010010184               ,12/14/2024,360.0
+244,       CDVM,"AC,NATURA,GIR,15X900ML,C,ESP,M.I.",72,230,130622                        ,6010010077               ,6/12/2024,0.0
+245,       CDVM,"AC,NATURA,GIR,15X900ML,C,ESP,M.I.",72,664,210823                        ,6010010077               ,8/20/2025,814.0
+246,       CDVM,"AC,NATURA,GIR,15X900ML,C,ESP,M.I.",72,704,290923                        ,6010010077               ,9/29/2025,0.0
+247,       CDVM,"AC,NATURA,GIR,4X5L,C,ESP,M.I./ARL",60,273,260722                        ,6010010112               ,7/25/2024,0.0
+248,       CDVM,"AC,NATURA,GIR,4X5L,C,ESP,M.I./ARL",60,672,290823                        ,6010010112               ,8/28/2025,42.0
+249,       CDVM,"AC,NATURA,GIR,4X5L,C,ESP,M.I./ARL",60,685,110923                        ,6010010112               ,9/10/2025,12.0
+250,       CDVM,"AC,NATURA,GIR,4X5L,C,ESP,M.I./ARL",60,702,280923                        ,6010010112               ,9/27/2025,1620.0
+251,       CDVM,"AC,NATURA,GIR,6X3L,B,ESP,M.I./ARL",50,695,180923                        ,6010010008               ,9/20/2025,60.0
+252,       CDVM,"AC,NATURA,GIR,6X3L,B,ESP,M.I./ARL",50,706,021023                        ,6010010008               ,10/1/2025,2600.0
+253,       CDVM,"AC,NATURA,GIR/OLIVA,12X1,5L,C,ESP,M.I.",60,381,111122                        ,6011570002               ,11/10/2024,5.0
+254,       CDVM,"AC,NATURA,GIR/OLIVA,12X1,5L,C,ESP,M.I.",60,504,140323                        ,6011570002               ,3/13/2025,360.0
+255,       CDVM,"AC,NATURA,GIR/OLIVA,12X500ML,C,ESP,M.I.",160,373,031122                        ,6011570005               ,11/2/2024,398.0
+256,       CDVM,"AC,NATURA,GIR/OLIVA,12X500ML,C,ESP,M.I.",160,511,210323                        ,6011570005               ,3/20/2025,160.0
+257,       CDVM,"AC,SOJOLA,SOJA,12X1,5L,B,ESP,M.I.",60,504,120323                        ,6010570019               ,3/13/2025,0.0
+258,       CDVM,"KET,NATURA L.G.,12,250 GR,DP,CT (CON TAPA),ESP,MERCADO INTER",260,184,010722                        ,6040100010               ,4/27/2024,0.0
+259,       CDVM,"KET,NATURA L.G.,12,250 GR,DP,CT (CON TAPA),ESP,MERCADO INTER",260,228,150823                        ,6040100010               ,6/10/2024,0.0
+260,       CDVM,"KET,NATURA L.G.,12,250 GR,DP,CT (CON TAPA),ESP,MERCADO INTER",260,267,230923                        ,6040100010               ,7/19/2024,0.0
+261,       CDVM,"KET,NATURA L.G.,12,250 GR,DP,CT (CON TAPA),ESP,MERCADO INTER",260,284,101023                        ,6040100010               ,8/5/2024,16820.0
+262,       CDVM,"KET,NATURA,12,500 G,DP,CT,ESP,M.I.",144,183,010723                        ,6040100009               ,4/26/2024,23.0
+263,       CDVM,"KET,NATURA,12,500 G,DP,CT,ESP,M.I.",144,195,130723                        ,6040100009               ,5/8/2024,0.0
+264,       CDVM,"KET,NATURA,12,500 G,DP,CT,ESP,M.I.",144,214,010823                        ,6040100009               ,5/27/2024,91.0
+265,       CDVM,"KET,NATURA,12,500 G,DP,CT,ESP,M.I.",144,247,030923                        ,6040100009               ,6/29/2024,14850.0
+266,       CDVM,"KET,NATURA,12,500 G,DP,CT,ESP,M.I.",144,256,080923                        ,6040100009               ,7/8/2024,2592.0
+267,       CDVM,"KET,NATURA,12,500 G,DP,CT,ESP,M.I.",144,270,260923                        ,6040100009               ,7/22/2024,4608.0
+268,       CDVM,"KET,NATURA,1504,8 G,SH,ST (SIN TAPA),ESP,M.I./ARL",60,209,250923                        ,6040100014               ,5/22/2024,0.0
+269,       CDVM,"KET,NATURA,192,8 G,SH,ST,ESP,M.I.",377,212,280923                        ,6040100001               ,5/25/2024,2211.0
+270,       CDVM,"KET,NATURA,192,8 G,SH,ST,ESP,M.I.",377,224,101023                        ,6040100001               ,6/6/2024,15457.0
+271,       CDVM,"KET,NATURA,4,3000GR,SH,ST,ESP,M.I.",80,267,230923                        ,6040100003               ,7/19/2024,2348.0
+272,       CDVM,"KET,NATURA,4,3000GR,SH,ST,ESP,M.I.",80,289,151023                        ,6040100003               ,8/10/2024,2881.0
+273,       CDVM,"MAYO,CADA DIA,LIGHT,12,250 CC,DP,ST (SIN TAPA),ESP,M.I./ARL",260,254,R101023                       ,6030330001               ,7/6/2024,1795.0
+274,       CDVM,"MAYO,CADA DIA,RVL,12,250 CC,L.G,DP,ST (SIN TAPA),ESP,MERCADO",260,262,R181023                       ,6030050070               ,7/14/2024,2080.0
+275,       CDVM,"MAYO,CADA DIA,RVL,12,250 CC,L.G,DP,ST (SIN TAPA),ESP,MERCADO",260,263,R191023                       ,6030050070               ,7/15/2024,2600.0
+276,       CDVM,"MAYO,CADA DIA,RVL,12,500 CC,L.G,DP,CT,ESP,MERCADO INTERNO",144,254,R101023                       ,6030050071               ,7/6/2024,274.0
+277,       CDVM,"MAYO,CADA DIA,RVL,12,500 CC,L.G,DP,CT,ESP,MERCADO INTERNO",144,255,R111023                       ,6030050071               ,7/7/2024,144.0
+278,       CDVM,"MAYO,CADA DIA,RVL,12,500 CC,L.G,DP,CT,ESP,MERCADO INTERNO",144,256,R121023                       ,6030050071               ,7/8/2024,4860.0
+279,       CDVM,"MAYO,CADA DIA,RVL,12,500 CC,L.G,DP,CT,ESP,MERCADO INTERNO",144,257,R131023                       ,6030050071               ,7/9/2024,3024.0
+280,       CDVM,"MAYO,CADA DIA,RVL,12,500 CC,L.G,DP,CT,ESP,MERCADO INTERNO",144,262,R181023                       ,6030050071               ,7/14/2024,6768.0
+281,       CDVM,"MAYO,CADA DIA,RVL,20,125 CC,L.G,SH,ST (SIN TAPA),ESP,M.I./AR",272,254,R101023                       ,6030050069               ,7/6/2024,0.0
+282,       CDVM,"MAYO,CADA DIA,RVL,20,125 CC,L.G,SH,ST (SIN TAPA),ESP,M.I./AR",272,255,R111023                       ,6030050069               ,7/7/2024,2720.0
+283,       CDVM,"MAYO,CADA DIA,RVL,20,125 CC,L.G,SH,ST (SIN TAPA),ESP,M.I./AR",272,256,R121023                       ,6030050069               ,7/8/2024,9818.0
+284,       CDVM,"MAYO,CADA DIA,RVL,20,125 CC,L.G,SH,ST (SIN TAPA),ESP,M.I./AR",272,257,R131023                       ,6030050069               ,7/9/2024,1632.0
+285,       CDVM,"MAYO,CADA DIA,RVL,20,125 CC,L.G,SH,ST (SIN TAPA),ESP,M.I./AR",272,262,R181023                       ,6030050069               ,7/14/2024,10608.0
+286,       CDVM,"MAYO,CADA DIA,RVL,20,125 CC,L.G,SH,ST (SIN TAPA),ESP,M.I./AR",272,263,R191023                       ,6030050069               ,7/15/2024,4624.0
+287,       CDVM,"MAYO,MAYOLIVA,L.G,12,250 CC,DP,ST (SIN TAPA),ESP,M.I./ARL",260,229,160823                        ,6030040040               ,6/11/2024,0.0
+288,       CDVM,"MAYO,MAYOLIVA,L.G,12,250 CC,DP,ST (SIN TAPA),ESP,M.I./ARL",260,238,250823                        ,6030040040               ,6/20/2024,0.0
+289,       CDVM,"MAYO,MAYOLIVA,L.G,12,250 CC,DP,ST (SIN TAPA),ESP,M.I./ARL",260,242,230823                        ,6030040040               ,6/24/2024,0.0
+290,       CDVM,"MAYO,MAYOLIVA,L.G,12,500 CC,DP,CT,ESP,M.I./ARL",144,229,160823                        ,6030040007               ,6/11/2024,12513.0
+291,       CDVM,"MAYO,MAYOLIVA,L.G,20,125 CC,SH,ST (SIN TAPA),ESP,M.I./ARL",272,238,250823                        ,6030040073               ,6/20/2024,1308.0
+292,       CDVM,"MAYO,MAYOLIVA,L.G,8,950 CC,DP,CT,ESP,M.I./ARL",108,238,250823                        ,6030040057               ,6/20/2024,2119.0
+293,       CDVM,"MAYO,NATURA,RVL 31%,L.G,12,250 CC,DP,ST (SIN TAPA),ESP,M.I./",260,229,150923                        ,6030010007               ,6/11/2024,0.0
+294,       CDVM,"MAYO,NATURA,RVL 31%,L.G,12,250 CC,DP,ST (SIN TAPA),ESP,M.I./",260,230,160923                        ,6030010007               ,6/12/2024,0.0
+295,       CDVM,"MAYO,NATURA,RVL 31%,L.G,12,250 CC,DP,ST (SIN TAPA),ESP,M.I./",260,245,011023                        ,6030010007               ,6/27/2024,776.0
+296,       CDVM,"MAYO,NATURA,RVL 31%,L.G,12,250 CC,DP,ST (SIN TAPA),ESP,M.I./",260,249,051023                        ,6030010007               ,7/1/2024,1586.0
+297,       CDVM,"MAYO,NATURA,RVL 31%,L.G,12,250 CC,DP,ST (SIN TAPA),ESP,M.I./",260,251,071023                        ,6030010007               ,7/3/2024,1560.0
+298,       CDVM,"MAYO,NATURA,RVL 31%,L.G,12,250 CC,DP,ST (SIN TAPA),ESP,M.I./",260,255,111023                        ,6030010007               ,7/7/2024,33800.0
+299,       CDVM,"MAYO,NATURA,RVL 31%,L.G,12,250 CC,DP,ST (SIN TAPA),ESP,M.I./",260,256,121023                        ,6030010007               ,7/8/2024,14300.0
+300,       CDVM,"MAYO,NATURA,RVL 31%,L.G,12,250 CC,DP,ST (SIN TAPA),ESP,M.I./",260,259,151023                        ,6030010007               ,7/11/2024,26520.0
+301,       CDVM,"MAYO,NATURA,RVL 31%,L.G,12,500 CC,DP,CT,ESP,M.I./ARL",144,215,010923                        ,6030010019               ,5/28/2024,432.0
+302,       CDVM,"MAYO,NATURA,RVL 31%,L.G,12,500 CC,DP,CT,ESP,M.I./ARL",144,224,100923                        ,6030010019               ,6/6/2024,56.0
+303,       CDVM,"MAYO,NATURA,RVL 31%,L.G,12,500 CC,DP,CT,ESP,M.I./ARL",144,228,140923                        ,6030010019               ,6/10/2024,0.0
+304,       CDVM,"MAYO,NATURA,RVL 31%,L.G,12,500 CC,DP,CT,ESP,M.I./ARL",144,233,190923                        ,6030010019               ,6/15/2024,0.0
+305,       CDVM,"MAYO,NATURA,RVL 31%,L.G,12,500 CC,DP,CT,ESP,M.I./ARL",144,234,200923                        ,6030010019               ,6/16/2024,0.0
+306,       CDVM,"MAYO,NATURA,RVL 31%,L.G,12,500 CC,DP,CT,ESP,M.I./ARL",144,249,051023                        ,6030010019               ,7/1/2024,144.0
+307,       CDVM,"MAYO,NATURA,RVL 31%,L.G,12,500 CC,DP,CT,ESP,M.I./ARL",144,250,061023                        ,6030010019               ,7/2/2024,450.0
+308,       CDVM,"MAYO,NATURA,RVL 31%,L.G,12,500 CC,DP,CT,ESP,M.I./ARL",144,256,121023                        ,6030010019               ,7/8/2024,31536.0
+309,       CDVM,"MAYO,NATURA,RVL 31%,L.G,192,8CC,SH,ST (SIN TAPA),ESP,M.I./A",377,158,050823                        ,6030010129               ,4/1/2024,5220.0
+310,       CDVM,"MAYO,NATURA,RVL 31%,L.G,192,8CC,SH,ST (SIN TAPA),ESP,M.I./A",377,183,300823                        ,6030010129               ,4/26/2024,201.0
+311,       CDVM,"MAYO,NATURA,RVL 31%,L.G,192,8CC,SH,ST (SIN TAPA),ESP,M.I./A",377,185,010923                        ,6030010129               ,4/28/2024,377.0
+312,       CDVM,"MAYO,NATURA,RVL 31%,L.G,192,8CC,SH,ST (SIN TAPA),ESP,M.I./A",377,190,060923                        ,6030010129               ,5/3/2024,33176.0
+313,       CDVM,"MAYO,NATURA,RVL 31%,L.G,192,8CC,SH,ST (SIN TAPA),ESP,M.I./A",377,218,040923                        ,6030010129               ,5/31/2024,377.0
+314,       CDVM,"MAYO,NATURA,RVL 31%,L.G,192,8CC,SH,ST (SIN TAPA),ESP,M.I./A",377,222,081023                        ,6030010129               ,6/4/2024,6032.0
+315,       CDVM,"MAYO,NATURA,RVL 31%,L.G,192,8CC,SH,ST (SIN TAPA),ESP,M.I./A",377,228,140923                        ,6030010129               ,6/10/2024,377.0
+316,       CDVM,"MAYO,NATURA,RVL 31%,L.G,20,125 CC,SH,ST (SIN TAPA),ESP,M.I./",272,186,030823                        ,6030010170               ,4/29/2024,0.0
+317,       CDVM,"MAYO,NATURA,RVL 31%,L.G,20,125 CC,SH,ST (SIN TAPA),ESP,M.I./",272,220,060923                        ,6030010170               ,6/2/2024,188.0
+318,       CDVM,"MAYO,NATURA,RVL 31%,L.G,20,125 CC,SH,ST (SIN TAPA),ESP,M.I./",272,224,100923                        ,6030010170               ,6/6/2024,0.0
+319,       CDVM,"MAYO,NATURA,RVL 31%,L.G,20,125 CC,SH,ST (SIN TAPA),ESP,M.I./",272,229,150923                        ,6030010170               ,6/11/2024,272.0
+320,       CDVM,"MAYO,NATURA,RVL 31%,L.G,20,125 CC,SH,ST (SIN TAPA),ESP,M.I./",272,235,210923                        ,6030010170               ,6/17/2024,272.0
+321,       CDVM,"MAYO,NATURA,RVL 31%,L.G,20,125 CC,SH,ST (SIN TAPA),ESP,M.I./",272,239,250923                        ,6030010170               ,6/21/2024,272.0
+322,       CDVM,"MAYO,NATURA,RVL 31%,L.G,20,125 CC,SH,ST (SIN TAPA),ESP,M.I./",272,247,031023                        ,6030010170               ,6/29/2024,2979.0
+323,       CDVM,"MAYO,NATURA,RVL 31%,L.G,20,125 CC,SH,ST (SIN TAPA),ESP,M.I./",272,251,071023                        ,6030010170               ,7/3/2024,22372.0
+324,       CDVM,"MAYO,NATURA,RVL 31%,L.G,20,125 CC,SH,ST (SIN TAPA),ESP,M.I./",272,253,091023                        ,6030010170               ,7/5/2024,4080.0
+325,       CDVM,"MAYO,NATURA,RVL 31%,L.G,20,125 CC,SH,ST (SIN TAPA),ESP,M.I./",272,259,151023                        ,6030010170               ,7/11/2024,49232.0
+326,       CDVM,"MAYO,NATURA,RVL 31%,L.G,4,2900 CC,SH,ST (SIN TAPA),ESP,M.I./",80,189,060823                        ,6030010208               ,5/2/2024,0.0
+327,       CDVM,"MAYO,NATURA,RVL 31%,L.G,4,2900 CC,SH,ST (SIN TAPA),ESP,M.I./",80,209,260823                        ,6030010208               ,5/22/2024,81.0
+328,       CDVM,"MAYO,NATURA,RVL 31%,L.G,4,2900 CC,SH,ST (SIN TAPA),ESP,M.I./",80,252,081023                        ,6030010208               ,7/4/2024,2672.0
+329,       CDVM,"MAYO,NATURA,RVL 31%,L.G,4,2900 CC,SH,ST (SIN TAPA),ESP,M.I./",80,262,181023                        ,6030010208               ,7/14/2024,7520.0
+330,       CDVM,"MAYO,NATURA,RVL 31%,L.G,8,1000 CC,DP,CT,ESP,M.I./ARL",108,181,290723                        ,6030010026               ,4/24/2024,93.0
+331,       CDVM,"MAYO,NATURA,RVL 31%,L.G,8,1000 CC,DP,CT,ESP,M.I./ARL",108,249,051023                        ,6030010026               ,7/1/2024,19811.0
+332,       CDVM,"MOSTAZA,ADEREZO NATURA,12,250GR,DP,CT,ESP,M.I.",260,162,100623                        ,6090020009               ,4/5/2024,213.0
+333,       CDVM,"MOSTAZA,ADEREZO NATURA,12,250GR,DP,CT,ESP,M.I.",260,256,120923                        ,6090020009               ,7/8/2024,186.0
+334,       CDVM,"MOSTAZA,ADEREZO NATURA,12,250GR,DP,CT,ESP,M.I.",260,262,140923                        ,6090020009               ,7/14/2024,0.0
+335,       CDVM,"MOSTAZA,ADEREZO NATURA,12,250GR,DP,CT,ESP,M.I.",260,275,011023                        ,6090020009               ,7/27/2024,27440.0
+336,       CDVM,"MOSTAZA,ADEREZO NATURA,12,250GR,DP,CT,ESP,M.I.",260,292,181023                        ,6090020009               ,8/13/2024,22360.0
+337,       CDVM,"MOSTAZA,ADEREZO NATURA,12,250GR,DP,CT,ESP,M.I.",260,294,201023                        ,6090020009               ,8/15/2024,1560.0
+338,       CDVM,"MOSTAZA,ADEREZO NATURA,12,500G,DP,CT,ESP,M.I.",144,162,100623                        ,6090020011               ,4/5/2024,133.0
+339,       CDVM,"MOSTAZA,ADEREZO NATURA,12,500G,DP,CT,ESP,M.I.",144,220,070823                        ,6090020011               ,6/2/2024,173.0
+340,       CDVM,"MOSTAZA,ADEREZO NATURA,12,500G,DP,CT,ESP,M.I.",144,256,120923                        ,6090020011               ,7/8/2024,22860.0
+341,       CDVM,"MOSTAZA,ADEREZO NATURA,192,8 G,SH,ST,ESP,M.I.",377,199,150923                        ,6090020010               ,5/12/2024,7176.0
+342,       CDVM,"MOSTAZA,ADEREZO NATURA,192,8 G,SH,ST,ESP,M.I.",377,216,021023                        ,6090020010               ,5/29/2024,13195.0
+343,       CDVM,"MOSTAZA,ADEREZO NATURA,4,3000GR,SH,ST,ESP,M.I.",80,263,190923                        ,6090020012               ,7/15/2024,1476.0
+344,       CDVM,"MOSTAZA,ADEREZO NATURA,4,3000GR,SH,ST,ESP,M.I.",80,280,061023                        ,6090020012               ,8/1/2024,4880.0
+345,       CDVM,"RO.VEG.(AL),MAZOLA CL.,MAIZ,12X120GRS,ESP,M.I.",224,687,256/23                        ,6010140007               ,9/12/2025,1292.0
+346,       CDVM,"RO.VEG.(AL),MAZOLA CL.,MAIZ,12X120GRS,ESP,M.I.",224,688,257/23                        ,6010140007               ,9/13/2025,224.0
+347,       CDVM,"RO.VEG.(AL),MAZOLA MANTECA,12X12X120GRS,ESP,M.I.",224,618,187/23                        ,6010140008               ,7/5/2025,0.0
+348,       CDVM,"RO.VEG.(AL),MAZOLA MANTECA,12X12X120GRS,ESP,M.I.",224,689,258/23                        ,6010140008               ,9/14/2025,1195.0
+349,       CDVM,"RO.VEG.(AL),NATURA,GIR,12X120GRS,ESP,M.I.",224,653,223/23                        ,6010550008               ,8/9/2025,224.0
+350,       CDVM,"RO.VEG.(AL),NATURA,GIR,12X120GRS,ESP,M.I.",224,660,229/23                        ,6010550008               ,8/16/2025,364.0
+351,       CDVM,"RO.VEG.(AL),NATURA,OLIVA,12X120GRS,ESP,M.I.",224,680,249/23                        ,6011640001               ,9/5/2025,893.0
+352,       CDVM,"RO.VEG.(AL),NATURA,OLIVA,12X120GRS,ESP,M.I.",224,681,250/23                        ,6011640001               ,9/6/2025,224.0
+353,       CDVM,"SGOLF,NATURA L.G.,12,250 GR,DP,ST (SIN TAPA),ESP,MERCADO INT",260,243,290923                        ,6050100007               ,6/25/2024,36.0
+354,       CDVM,"SGOLF,NATURA L.G.,12,250 GR,DP,ST (SIN TAPA),ESP,MERCADO INT",260,245,011023                        ,6050100007               ,6/27/2024,11680.0
+355,       CDVM,"SGOLF,NATURA,192,8 CC,SH,ST,ESP,M.I.",377,157,040823                        ,6050100001               ,3/31/2024,180.0
+356,       CDVM,"SGOLF,NATURA,192,8 CC,SH,ST,ESP,M.I.",377,213,290923                        ,6050100001               ,5/26/2024,1885.0
+357,       CDVM,"SGOLF,NATURA,192,8 CC,SH,ST,ESP,M.I.",377,215,011023                        ,6050100001               ,5/28/2024,3393.0
+358,       CDVM,"SGOLF,NATURA,20,125 CC,SH,ST,ESP,M.I.",272,182,300723                        ,6050100002               ,4/25/2024,152.0
+359,       CDVM,"SGOLF,NATURA,20,125 CC,SH,ST,ESP,M.I.",272,243,290923                        ,6050100002               ,6/25/2024,6834.0
+360,       CDVM,"SGOLF,NATURA,4,2900 CC,SH,ST,ESP,M.I.",80,130,080623                        ,6050100004               ,3/4/2024,554.0
+361,       CDVM,"SGOLF,NATURA,4,2900 CC,SH,ST,ESP,M.I.",80,245,011023                        ,6050100004               ,6/27/2024,2720.0
+362,      CDCAU,"AC,NATURA,GIR,12X1,5L,C,ESP,M.I./ARL",60,550,290423                        ,6010010007               ,4/28/2025,0.0
+363,      CDCAU,"AC,NATURA,GIR,12X1,5L,C,ESP,M.I./ARL",60,648,060823                        ,6010010007               ,8/4/2025,0.0
+364,      CDLDC,"AC,CADA DIA,GIR,12X1,5L,B,ESP,M.I.",60,136,110322                        ,6010040002               ,3/10/2024,0.0
+365,      CDLDC,"AC,NATURA,GIR,12X1,5L,C,ESP,M.I./ARL",60,154,290322                        ,6010010007               ,3/28/2024,0.0
+366,      CDLDC,"AC,NATURA,GIR,15X900ML,C,ESP,M.I.",72,172,160422                        ,6010010077               ,4/15/2024,0.0
+367,      CDLDC,"AC,NATURA,GIR,15X900ML,C,ESP,M.I.",72,294,160822                        ,6010010077               ,8/15/2024,0.0
+368,      CDLDC,"AC,NATURA,GIR,6X3L,B,ESP,M.I./ARL",50,175,180422                        ,6010010008               ,4/18/2024,0.0
+369,      CDLDC,"MAYO,CADA DIA,RVL,12,250 CC,L.G,DP,ST (SIN TAPA),ESP,MERCADO",260,225,R110923                       ,6030050070               ,6/7/2024,0.0
+370,      CDLDC,"MAYO,CADA DIA,RVL,12,250 CC,L.G,DP,ST (SIN TAPA),ESP,MERCADO",260,226,R120923                       ,6030050070               ,6/8/2024,0.0
+371,      CDLDC,"MAYO,CADA DIA,RVL,12,250 CC,L.G,DP,ST (SIN TAPA),ESP,MERCADO",260,227,R130923                       ,6030050070               ,6/9/2024,0.0
+372,      CDLDC,"MAYO,CADA DIA,RVL,12,250 CC,L.G,DP,ST (SIN TAPA),ESP,MERCADO",260,228,R140923                       ,6030050070               ,6/10/2024,0.0
+373,      CDLDC,"MAYO,CADA DIA,RVL,12,250 CC,L.G,DP,ST (SIN TAPA),ESP,MERCADO",260,229,R150923                       ,6030050070               ,6/11/2024,2730.0
+374,      CDLDC,"MAYO,CADA DIA,RVL,12,250 CC,L.G,DP,ST (SIN TAPA),ESP,MERCADO",260,230,R160923                       ,6030050070               ,6/12/2024,6347.0
+375,      CDLDC,"MAYO,CADA DIA,RVL,12,250 CC,L.G,DP,ST (SIN TAPA),ESP,MERCADO",260,233,R190923                       ,6030050070               ,6/15/2024,5714.0
+376,      CDLDC,"MAYO,CADA DIA,RVL,12,250 CC,L.G,DP,ST (SIN TAPA),ESP,MERCADO",260,234,R200923                       ,6030050070               ,6/16/2024,4940.0
+377,      CDLDC,"MAYO,CADA DIA,RVL,12,250 CC,L.G,DP,ST (SIN TAPA),ESP,MERCADO",260,235,R210923                       ,6030050070               ,6/17/2024,3380.0
+378,      CDLDC,"MAYO,CADA DIA,RVL,12,250 CC,L.G,DP,ST (SIN TAPA),ESP,MERCADO",260,236,R220923                       ,6030050070               ,6/18/2024,3640.0
+379,      CDLDC,"MAYO,CADA DIA,RVL,12,250 CC,L.G,DP,ST (SIN TAPA),ESP,MERCADO",260,237,R230923                       ,6030050070               ,6/19/2024,3380.0
+380,      CDLDC,"MAYO,CADA DIA,RVL,12,250 CC,L.G,DP,ST (SIN TAPA),ESP,MERCADO",260,239,R250923                       ,6030050070               ,6/21/2024,3640.0
+381,      CDLDC,"MAYO,CADA DIA,RVL,12,250 CC,L.G,DP,ST (SIN TAPA),ESP,MERCADO",260,240,R260923                       ,6030050070               ,6/22/2024,3380.0
+382,      CDLDC,"MAYO,CADA DIA,RVL,12,250 CC,L.G,DP,ST (SIN TAPA),ESP,MERCADO",260,241,R270923                       ,6030050070               ,6/23/2024,10660.0
+383,      CDLDC,"MAYO,CADA DIA,RVL,12,250 CC,L.G,DP,ST (SIN TAPA),ESP,MERCADO",260,243,R290923                       ,6030050070               ,6/25/2024,3120.0
+384,      CDLDC,"MAYO,CADA DIA,RVL,12,500 CC,L.G,DP,CT,ESP,MERCADO INTERNO",144,233,R190923                       ,6030050071               ,6/15/2024,0.0
+385,      CDLDC,"MAYO,CADA DIA,RVL,12,500 CC,L.G,DP,CT,ESP,MERCADO INTERNO",144,234,R200923                       ,6030050071               ,6/16/2024,0.0
+386,      CDLDC,"MAYO,CADA DIA,RVL,12,500 CC,L.G,DP,CT,ESP,MERCADO INTERNO",144,235,R210923                       ,6030050071               ,6/17/2024,3926.0
+387,      CDLDC,"MAYO,CADA DIA,RVL,12,500 CC,L.G,DP,CT,ESP,MERCADO INTERNO",144,236,R220923                       ,6030050071               ,6/18/2024,5760.0
+388,      CDLDC,"MAYO,CADA DIA,RVL,12,500 CC,L.G,DP,CT,ESP,MERCADO INTERNO",144,237,R230923                       ,6030050071               ,6/19/2024,3276.0
+389,      CDLDC,"MAYO,CADA DIA,RVL,12,500 CC,L.G,DP,CT,ESP,MERCADO INTERNO",144,239,R250923                       ,6030050071               ,6/21/2024,5904.0
+390,      CDLDC,"MAYO,CADA DIA,RVL,12,500 CC,L.G,DP,CT,ESP,MERCADO INTERNO",144,240,R260923                       ,6030050071               ,6/22/2024,6192.0
+391,      CDLDC,"MAYO,CADA DIA,RVL,20,125 CC,L.G,SH,ST (SIN TAPA),ESP,M.I./AR",272,226,R120923                       ,6030050069               ,6/8/2024,0.0
+392,      CDLDC,"MAYO,CADA DIA,RVL,20,125 CC,L.G,SH,ST (SIN TAPA),ESP,M.I./AR",272,227,R130923                       ,6030050069               ,6/9/2024,0.0
+393,      CDLDC,"MAYO,CADA DIA,RVL,20,125 CC,L.G,SH,ST (SIN TAPA),ESP,M.I./AR",272,228,R140923                       ,6030050069               ,6/10/2024,0.0
+394,      CDLDC,"MAYO,CADA DIA,RVL,20,125 CC,L.G,SH,ST (SIN TAPA),ESP,M.I./AR",272,229,R150923                       ,6030050069               ,6/11/2024,0.0
+395,      CDLDC,"MAYO,CADA DIA,RVL,20,125 CC,L.G,SH,ST (SIN TAPA),ESP,M.I./AR",272,230,R160923                       ,6030050069               ,6/12/2024,0.0
+396,      CDLDC,"MAYO,CADA DIA,RVL,20,125 CC,L.G,SH,ST (SIN TAPA),ESP,M.I./AR",272,234,R200923                       ,6030050069               ,6/16/2024,0.0
+397,      CDLDC,"MAYO,CADA DIA,RVL,20,125 CC,L.G,SH,ST (SIN TAPA),ESP,M.I./AR",272,235,R210923                       ,6030050069               ,6/17/2024,0.0
+398,      CDLDC,"MAYO,CADA DIA,RVL,20,125 CC,L.G,SH,ST (SIN TAPA),ESP,M.I./AR",272,236,R220923                       ,6030050069               ,6/18/2024,0.0
+399,      CDLDC,"MAYO,CADA DIA,RVL,20,125 CC,L.G,SH,ST (SIN TAPA),ESP,M.I./AR",272,237,R230923                       ,6030050069               ,6/19/2024,0.0
+400,      CDLDC,"MAYO,CADA DIA,RVL,20,125 CC,L.G,SH,ST (SIN TAPA),ESP,M.I./AR",272,239,R250923                       ,6030050069               ,6/21/2024,0.0
+401,      CDLDC,"MAYO,CADA DIA,RVL,20,125 CC,L.G,SH,ST (SIN TAPA),ESP,M.I./AR",272,240,R260923                       ,6030050069               ,6/22/2024,0.0
+402,      CDLDC,"MAYO,CADA DIA,RVL,20,125 CC,L.G,SH,ST (SIN TAPA),ESP,M.I./AR",272,241,R270923                       ,6030050069               ,6/23/2024,506.0
+403,      CDLDC,"MAYO,CADA DIA,RVL,20,125 CC,L.G,SH,ST (SIN TAPA),ESP,M.I./AR",272,243,R290923                       ,6030050069               ,6/25/2024,3574.0
+404,      CDLDC,"MAYO,CADA DIA,RVL,8,1000 CC,L.G,DP,CT,ESP,MERCADO INTERNO",108,225,R110923                       ,6030050072               ,6/7/2024,162.0
+405,      CDLDC,"MAYO,CADA DIA,RVL,8,1000 CC,L.G,DP,CT,ESP,MERCADO INTERNO",108,226,R120923                       ,6030050072               ,6/8/2024,4428.0
+406,      CDLDC,"MAYO,CADA DIA,RVL,8,1000 CC,L.G,DP,CT,ESP,MERCADO INTERNO",108,227,R130923                       ,6030050072               ,6/9/2024,4104.0
+407,      CDLDC,"MAYO,CADA DIA,RVL,8,1000 CC,L.G,DP,CT,ESP,MERCADO INTERNO",108,228,R140923                       ,6030050072               ,6/10/2024,4212.0
+408,      CDLDC,"MAYO,CADA DIA,RVL,8,1000 CC,L.G,DP,CT,ESP,MERCADO INTERNO",108,229,R150923                       ,6030050072               ,6/11/2024,4212.0
+409,      CDLDC,"MAYO,CADA DIA,RVL,8,1000 CC,L.G,DP,CT,ESP,MERCADO INTERNO",108,230,R160923                       ,6030050072               ,6/12/2024,2268.0
+410,      CDLDC,"MAYO,CADA DIA,RVL,8,1000 CC,L.G,DP,CT,ESP,MERCADO INTERNO",108,232,R180923                       ,6030050072               ,6/14/2024,864.0
+411,      CDLDC,"MAYO,NATURA,RVL 31%,L.G,12,250 CC,DP,ST (SIN TAPA),ESP,M.I./",260,215,010923                        ,6030010007               ,5/28/2024,9131.0
+412,      CDLDC,"MAYO,NATURA,RVL 31%,L.G,20,125 CC,SH,ST (SIN TAPA),ESP,M.I./",272,161,090723                        ,6030010170               ,4/4/2024,4573.0
+413,      CDLDC,"MAYO,NATURA,RVL 31%,L.G,20,125 CC,SH,ST (SIN TAPA),ESP,M.I./",272,215,010923                        ,6030010170               ,5/28/2024,7616.0
+414,      CDLDC,"MAYO,NATURA,RVL 31%,L.G,4,2900 CC,SH,ST (SIN TAPA),ESP,M.I./",80,139,170623                        ,6030010208               ,3/13/2024,1195.0
+415,      CDLDC,"MAYO,NATURA,RVL 31%,L.G,4,2900 CC,SH,ST (SIN TAPA),ESP,M.I./",80,177,250723                        ,6030010208               ,4/20/2024,6720.0
+416,      CDLDC,"MAYO,NATURA,RVL 31%,L.G,8,1000 CC,DP,CT,ESP,M.I./ARL",108,215,010923                        ,6030010026               ,5/28/2024,51.0
+417,    CDCDCF1,"AC,CADA DIA,GIR,12X900ML,B,ESP,M.I.",105,446,150123                        ,6010040111               ,1/14/2025,1769.0
+418,    CDCDCF1,"AC,CADA DIA,GIR,12X900ML,B,ESP,M.I.",105,471,090223                        ,6010040111               ,2/8/2025,662.0
+419,    CDCDCF1,"AC,COPISI,GIR/OLIVA,12X500ML,B,ESP,M.I./ARL",144,501,110323                        ,6011270001               ,3/10/2025,13.0
+420,    CDCDCF1,"AC,COPISI,GIR/OLIVA,12X900ML,B,ESP,M.I./ARL",105,392,211122                        ,6011270002               ,11/21/2024,68.0
+421,    CDCDCF1,"AC,MAZOLA CLA,MAIZ,12X900ML,B,ESP,M.I.",105,596,120623                        ,6010950016               ,6/13/2025,195.0
+422,    CDCDCF1,"AC,MAZOLA CLA,MAIZ,12X900ML,B,ESP,M.I.",105,623,090723                        ,6010950016               ,7/10/2025,1917.0
+423,    CDCDCF1,"AC,MAZOLA CLA,MAIZ,12X900ML,B,ESP,M.I.",105,644,310723                        ,6010950016               ,7/31/2025,2100.0
+424,    CDCDCF1,"AC,NATURA CL,OLIVA VE,12X500ML,C,ESP,M.I.",160,510,210323                        ,6010900031               ,3/19/2025,1.0
+425,    CDCDCF1,"AC,NATURA CL,OLIVA VE,6X1LT,D(LATA),ESP,M.I.",156,330,210922                        ,6010900002               ,9/20/2024,8.0
+426,    CDCDCF1,"AC,NATURA CL,OLIVA VE,6X1LT,D(LATA),ESP,M.I.",156,515,250323                        ,6010900002               ,3/24/2025,120.0
+427,    CDCDCF1,"AC,NATURA INT,OLIVA VE,6X1LT,D(LATA),ESP,M.I.",156,304,250822                        ,6010900018               ,8/25/2024,104.0
+428,    CDCDCF1,"AC,NATURA,GIR,12X1,5L,C,ESP,M.I./ARL",60,690,160923                        ,6010010007               ,9/15/2025,98.0
+429,    CDCDCF1,"AC,NATURA,GIR,12X1,5L,C,ESP,M.I./ARL",60,698,240923                        ,6010010007               ,9/23/2025,30.0
+430,    CDCDCF1,"AC,NATURA,GIR,12X500ML,C,ESP,M.I.",160,326,170922                        ,6010010184               ,9/16/2024,4.0
+431,    CDCDCF1,"AC,NATURA,GIR,4X5L,C,ESP,M.I./ARL",60,694,190923                        ,6010010112               ,9/19/2025,1570.0
+432,    CDCDCF1,"AC,NATURA,GIR,6X3L,B,ESP,M.I./ARL",50,657,120823                        ,6010010008               ,8/13/2025,33.0
+433,    CDCDCF1,"AC,NATURA,GIR,6X3L,B,ESP,M.I./ARL",50,695,180923                        ,6010010008               ,9/20/2025,370.0
+434,    CDCDCF1,"AC,NATURA,GIR/OLIVA,12X1,5L,C,ESP,M.I.",60,533,120423                        ,6011570002               ,4/11/2025,3586.0
+435,    CDCDCF1,"AC,NATURA,GIR/OLIVA,12X500ML,C,ESP,M.I.",160,296,180822                        ,6011570005               ,8/17/2024,14.0
+436,    CDCDCF1,"AC,NATURA,GIR/OLIVA,12X500ML,C,ESP,M.I.",160,373,031122                        ,6011570005               ,11/2/2024,160.0
+437,    CDCDCF1,"AC,NATURA,GIR/OLIVA,12X500ML,C,ESP,M.I.",160,511,210323                        ,6011570005               ,3/20/2025,480.0
+438,    CDCDCF1,"AC,NATURA,GIR/OLIVA,15X900ML,C,ESP,M.I.",72,505,150323                        ,6011570001               ,3/14/2025,414.0
+439,    CDCDCF1,"AC,NATURA,GIR/OLIVA,15X900ML,C,ESP,M.I.",72,532,090423                        ,6011570001               ,4/10/2025,1725.0
+440,    CDCDCF1,"AC,SOJOLA,SOJA,12X1,5L,B,ESP,M.I.",60,504,120323                        ,6010570019               ,3/13/2025,249.0
+441,    CDCDCF1,"KET,NATURA,12,500 G,DP,CT,ESP,M.I.",144,214,010823                        ,6040100009               ,5/27/2024,555.0
+442,    CDCDCF1,"KET,NATURA,1504,8 G,SH,ST (SIN TAPA),ESP,M.I./ARL",60,171,180823                        ,6040100014               ,4/14/2024,0.0
+443,    CDCDCF1,"KET,NATURA,192,8 G,SH,ST,ESP,M.I.",377,168,150823                        ,6040100001               ,4/11/2024,2380.0
+444,    CDCDCF1,"KET,NATURA,WENDY'S,4,3000GR,SH,ST,ESP,M.I./ARL",80,212,300723                        ,6040100015               ,5/25/2024,0.0
+445,    CDCDCF1,"KET,NATURA,WENDY'S,4,3000GR,SH,ST,ESP,M.I./ARL",80,217,040823                        ,6040100015               ,5/30/2024,161.0
+446,    CDCDCF1,"MAYO,CADA DIA,LIGHT,12,250 CC,DP,ST (SIN TAPA),ESP,M.I./ARL",260,195,R120823                       ,6030330001               ,5/8/2024,284.0
+447,    CDCDCF1,"MAYO,MAYOLIVA,L.G,12,250 CC,DP,ST (SIN TAPA),ESP,M.I./ARL",260,229,160823                        ,6030040040               ,6/11/2024,2068.0
+448,    CDCDCF1,"MAYO,MAYOLIVA,L.G,12,500 CC,DP,CT,ESP,M.I./ARL",144,229,160823                        ,6030040007               ,6/11/2024,910.0
+449,    CDCDCF1,"MAYO,MAYOLIVA,L.G,8,950 CC,DP,CT,ESP,M.I./ARL",108,238,250823                        ,6030040057               ,6/20/2024,228.0
+450,    CDCDCF1,"MAYO,NATURA,RVL 31%,1504,8 CC,SH,ST (SIN TAPA),ESP,M.I./ARL",60,175,220823                        ,6030010227               ,4/18/2024,0.0
+451,    CDCDCF1,"MAYO,NATURA,RVL 31%,1504,8 CC,SH,ST (SIN TAPA),ESP,M.I./ARL",60,195,110923                        ,6030010227               ,5/8/2024,1064.0
+452,    CDCDCF1,"MAYO,NATURA,RVL 31%,L.G,12,250 CC,DP,ST (SIN TAPA),ESP,M.I./",260,207,240823                        ,6030010007               ,5/20/2024,2669.0
+453,    CDCDCF1,"MAYO,NATURA,RVL 31%,L.G,12,250 CC,DP,ST (SIN TAPA),ESP,M.I./",260,213,300823                        ,6030010007               ,5/26/2024,1300.0
+454,    CDCDCF1,"MAYO,NATURA,RVL 31%,L.G,12,250 CC,DP,ST (SIN TAPA),ESP,M.I./",260,215,010923                        ,6030010007               ,5/28/2024,27710.0
+455,    CDCDCF1,"MAYO,NATURA,RVL 31%,L.G,12,250 CC,DP,ST (SIN TAPA),ESP,M.I./",260,220,060923                        ,6030010007               ,6/2/2024,7800.0
+456,    CDCDCF1,"MAYO,NATURA,RVL 31%,L.G,12,250 CC,DP,ST (SIN TAPA),ESP,M.I./",260,224,100923                        ,6030010007               ,6/6/2024,4676.0
+457,    CDCDCF1,"MAYO,NATURA,RVL 31%,L.G,12,250 CC,DP,ST (SIN TAPA),ESP,M.I./",260,229,150923                        ,6030010007               ,6/11/2024,2600.0
+458,    CDCDCF1,"MAYO,NATURA,RVL 31%,L.G,12,250 CC,DP,ST (SIN TAPA),ESP,M.I./",260,230,160923                        ,6030010007               ,6/12/2024,7280.0
+459,    CDCDCF1,"MAYO,NATURA,RVL 31%,L.G,12,500 CC,DP,CT,ESP,M.I./ARL",144,215,010923                        ,6030010019               ,5/28/2024,7728.0
+460,    CDCDCF1,"MAYO,NATURA,RVL 31%,L.G,12,500 CC,DP,CT,ESP,M.I./ARL",144,224,100923                        ,6030010019               ,6/6/2024,1440.0
+461,    CDCDCF1,"MAYO,NATURA,RVL 31%,L.G,12,500 CC,DP,CT,ESP,M.I./ARL",144,228,140923                        ,6030010019               ,6/10/2024,12094.0
+462,    CDCDCF1,"MAYO,NATURA,RVL 31%,L.G,192,8CC,SH,ST (SIN TAPA),ESP,M.I./A",377,158,050823                        ,6030010129               ,4/1/2024,3887.0
+463,    CDCDCF1,"MAYO,NATURA,RVL 31%,L.G,20,125 CC,SH,ST (SIN TAPA),ESP,M.I./",272,215,010923                        ,6030010170               ,5/28/2024,10088.0
+464,    CDCDCF1,"MAYO,NATURA,RVL 31%,L.G,20,125 CC,SH,ST (SIN TAPA),ESP,M.I./",272,220,060923                        ,6030010170               ,6/2/2024,5712.0
+465,    CDCDCF1,"MAYO,NATURA,RVL 31%,L.G,20,125 CC,SH,ST (SIN TAPA),ESP,M.I./",272,224,100923                        ,6030010170               ,6/6/2024,10880.0
+466,    CDCDCF1,"MAYO,NATURA,RVL 31%,L.G,20,125 CC,SH,ST (SIN TAPA),ESP,M.I./",272,229,150923                        ,6030010170               ,6/11/2024,3536.0
+467,    CDCDCF1,"MAYO,NATURA,RVL 31%,L.G,20,125 CC,SH,ST (SIN TAPA),ESP,M.I./",272,232,180923                        ,6030010170               ,6/14/2024,2720.0
+468,    CDCDCF1,"MAYO,NATURA,RVL 31%,L.G,20,125 CC,SH,ST (SIN TAPA),ESP,M.I./",272,235,210923                        ,6030010170               ,6/17/2024,10876.0
+469,    CDCDCF1,"MAYO,NATURA,RVL 31%,L.G,4,2900 CC,SH,ST (SIN TAPA),ESP,M.I./",80,215,010923                        ,6030010208               ,5/28/2024,0.0
+470,    CDCDCF1,"MAYO,NATURA,RVL 31%,L.G,4,2900 CC,SH,ST (SIN TAPA),ESP,M.I./",80,220,060923                        ,6030010208               ,6/2/2024,0.0
+471,    CDCDCF1,"MAYO,NATURA,RVL 31%,L.G,8,1000 CC,DP,CT,ESP,M.I./ARL",108,184,010823                        ,6030010026               ,4/27/2024,108.0
+472,    CDCDCF1,"MAYO,NATURA,RVL 31%,L.G,8,1000 CC,DP,CT,ESP,M.I./ARL",108,195,120823                        ,6030010026               ,5/8/2024,2164.0
+473,    CDCDCF1,"MAYO,NATURA,RVL 31%,L.G,8,1000 CC,DP,CT,ESP,M.I./ARL",108,215,010923                        ,6030010026               ,5/28/2024,16351.0
+474,    CDCDCF1,"MAYO,NATURA,RVL 31%,WENDY'S,4,2900 CC,SH,ST (SIN TAPA),ESP,M",80,205,220823                        ,6030010228               ,5/18/2024,0.0
+475,    CDCDCF1,"MAYO,NATURA,RVL 31%,WENDY'S,4,2900 CC,SH,ST (SIN TAPA),ESP,M",80,226,120923                        ,6030010228               ,6/8/2024,186.0
+476,    CDCDCF1,"MOSTAZA,ADEREZO NATURA,12,500G,DP,CT,ESP,M.I.",144,186,040723                        ,6090020011               ,4/29/2024,406.0
+477,    CDCDCF1,"MOSTAZA,ADEREZO NATURA,12,500G,DP,CT,ESP,M.I.",144,220,070823                        ,6090020011               ,6/2/2024,1008.0
+478,    CDCDCF1,"MOSTAZA,ADEREZO NATURA,192,8 G,SH,ST,ESP,M.I.",377,179,260823                        ,6090020010               ,4/22/2024,272.0
+479,    CDCDCF1,"MOSTAZA,NATURA,1504,8 G,SH,ST(SIN TAPA),ESP,MERCADO INTERNO",60,181,280823                        ,6090020014               ,4/24/2024,50.0
+480,    CDCDCF1,"MOSTAZA,NATURA,1504,8 G,SH,ST(SIN TAPA),ESP,MERCADO INTERNO",60,202,180923                        ,6090020014               ,5/15/2024,250.0
+481,    CDCDCF1,"RO.VEG.(AL),MAZOLA CL.,MAIZ,12X120GRS,ESP,M.I.",224,617,186/23                        ,6010140007               ,7/4/2025,9.0
+482,    CDCDCF1,"RO.VEG.(AL),MAZOLA CL.,MAIZ,12X120GRS,ESP,M.I.",224,687,256/23                        ,6010140007               ,9/12/2025,427.0
+483,    CDCDCF1,"RO.VEG.(AL),NATURA,GIR,12X120GRS,ESP,M.I.",224,672,241/23                        ,6010550008               ,8/28/2025,1.0
+484,    CDCDCF1,"RO.VEG.(AL),NATURA,GIR,12X120GRS,ESP,M.I.",224,673,242/23                        ,6010550008               ,8/29/2025,411.0
+485,    CDCDCF1,"RO.VEG.(AL),NATURA,OLIVA,12X120GRS,ESP,M.I.",224,645,214/23                        ,6011640001               ,8/1/2025,183.0
+486,    CDCDCF1,"SGOLF,NATURA,192,8 CC,SH,ST,ESP,M.I.",377,157,040823                        ,6050100001               ,3/31/2024,125.0
+487,    CDCDCO1,"AC,CADA DIA,GIR,12X900ML,B,ESP,M.I.",105,434,010123                        ,6010040111               ,1/2/2025,30.0
+488,    CDCDCO1,"AC,COPISI,GIR/OLIVA,12X500ML,B,ESP,M.I./ARL",144,239,220622                        ,6011270001               ,6/21/2024,278.0
+489,    CDCDCO1,"AC,COPISI,GIR/OLIVA,12X900ML,B,ESP,M.I./ARL",105,147,220322                        ,6011270002               ,3/21/2024,117.0
+490,    CDCDCO1,"AC,COPISI,GIR/OLIVA,12X900ML,B,ESP,M.I./ARL",105,392,211122                        ,6011270002               ,11/21/2024,105.0
+491,    CDCDCO1,"AC,FAMILIAR,94%SOJ-6%GIR,4X5L,C,ESP,ESP.P.TRATADO NO RETORNA",60,358,191022                        ,6010020204               ,10/18/2024,0.0
+492,    CDCDCO1,"AC,FAMILIAR,94%SOJ-6%GIR,4X5L,C,ESP,ESP.P.TRATADO NO RETORNA",60,403,011222                        ,6010020204               ,12/2/2024,0.0
+493,    CDCDCO1,"AC,FAMILIAR,94%SOJ-6%GIR,4X5L,C,ESP,ESP.P.TRATADO NO RETORNA",60,420,201222                        ,6010020204               ,12/19/2024,0.0
+494,    CDCDCO1,"AC,FAMILIAR,94%SOJ-6%GIR,4X5L,C,ESP,ESP.P.TRATADO NO RETORNA",60,465,020223                        ,6010020204               ,2/2/2025,0.0
+495,    CDCDCO1,"AC,FAMILIAR,94%SOJ-6%GIR,4X5L,C,ESP,ESP.P.TRATADO NO RETORNA",60,478,150223                        ,6010020204               ,2/15/2025,0.0
+496,    CDCDCO1,"AC,FAMILIAR,94%SOJ-6%GIR,4X5L,C,ESP,ESP.P.TRATADO NO RETORNA",60,490,270223                        ,6010020204               ,2/27/2025,0.0
+497,    CDCDCO1,"AC,FAMILIAR,94%SOJ-6%GIR,4X5L,C,ESP,ESP.P.TRATADO NO RETORNA",60,505,110323                        ,6010020204               ,3/14/2025,0.0
+498,    CDCDCO1,"AC,FAMILIAR,94%SOJ-6%GIR,4X5L,C,ESP,ESP.P.TRATADO NO RETORNA",60,527,060423                        ,6010020204               ,4/5/2025,0.0
+499,    CDCDCO1,"AC,FAMILIAR,94%SOJ-6%GIR,4X5L,C,ESP,ESP.P.TRATADO NO RETORNA",60,554,020523                        ,6010020204               ,5/2/2025,0.0
+500,    CDCDCO1,"AC,FAMILIAR,94%SOJ-6%GIR,4X5L,C,ESP,ESP.P.TRATADO NO RETORNA",60,567,160523                        ,6010020204               ,5/15/2025,0.0
+501,    CDCDCO1,"AC,FAMILIAR,94%SOJ-6%GIR,4X5L,C,ESP,ESP.P.TRATADO NO RETORNA",60,619,070723                        ,6010020204               ,7/6/2025,0.0
+502,    CDCDCO1,"AC,FAMILIAR,94%SOJ-6%GIR,4X5L,C,ESP,ESP.P.TRATADO NO RETORNA",60,637,250723                        ,6010020204               ,7/24/2025,0.0
+503,    CDCDCO1,"AC,FAMILIAR,94%SOJ-6%GIR,4X5L,C,ESP,ESP.P.TRATADO NO RETORNA",60,652,080823                        ,6010020204               ,8/8/2025,1407.0
+504,    CDCDCO1,"AC,FAMILIAR,94%SOJ-6%GIR,4X5L,C,ESP,ESP.P.TRATADO NO RETORNA",60,669,250823                        ,6010020204               ,8/25/2025,6900.0
+505,    CDCDCO1,"AC,FAMILIAR,94%SOJ-6%GIR,4X5L,C,ESP,ESP.P.TRATADO NO RETORNA",60,713,091023                        ,6010020204               ,10/8/2025,5040.0
+506,    CDCDCO1,"AC,FAMILIAR,GIR,12X1,5L,B,ESP,M.I.",60,319,100922                        ,6010020199               ,9/9/2024,60.0
+507,    CDCDCO1,"AC,MAZOLA CLA,MAIZ,12X500ML,B,ESP,M.I.",144,260,120722                        ,6010950015               ,7/12/2024,0.0
+508,    CDCDCO1,"AC,MAZOLA CLA,MAIZ,12X900ML,B,ESP,M.I.",105,183,250422                        ,6010950016               ,4/26/2024,0.0
+509,    CDCDCO1,"AC,MAZOLA CLA,MAIZ,12X900ML,B,ESP,M.I.",105,505,150323                        ,6010950016               ,3/14/2025,0.0
+510,    CDCDCO1,"AC,MAZOLA,OLIVA VE,12X500ML,B,ESP,M.I.",144,240,220622                        ,6010960007               ,6/22/2024,0.0
+511,    CDCDCO1,"AC,NATURA CL,OLIVA VE,12X500ML,C,ESP,M.I.",160,260,120722                        ,6010900031               ,7/12/2024,0.0
+512,    CDCDCO1,"AC,NATURA CL,OLIVA VE,12X500ML,C,ESP,M.I.",160,510,210323                        ,6010900031               ,3/19/2025,0.0
+513,    CDCDCO1,"AC,NATURA CL,OLIVA VE,6X1LT,D(LATA),ESP,M.I.",156,202,160522                        ,6010900002               ,5/15/2024,0.0
+514,    CDCDCO1,"AC,NATURA CL,OLIVA VE,6X500ML,D(LATA),ESP,M.I./ARL",304,301,220822                        ,6010900001               ,8/22/2024,0.0
+515,    CDCDCO1,"AC,NATURA CL,OLIVA VE,6X500ML,D(LATA),ESP,M.I./ARL",304,513,220323                        ,6010900001               ,3/22/2025,0.0
+516,    CDCDCO1,"AC,NATURA INT,OLIVA VE,12X500ML,C,ESP,M.I.",160,259,120722                        ,6010900032               ,7/11/2024,0.0
+517,    CDCDCO1,"AC,NATURA INT,OLIVA VE,6X1LT,D(LATA),ESP,M.I.",156,177,210422                        ,6010900018               ,4/20/2024,0.0
+518,    CDCDCO1,"AC,NATURA INT,OLIVA VE,6X500ML,D(LATA),ESP,M.I.",304,223,060622                        ,6010900017               ,6/5/2024,0.0
+519,    CDCDCO1,"AC,NATURA SELECCION ESPECIAL,OLIVA VE,6X500ML,E,ESP,M.I.",185,281,010822                        ,6010900024               ,8/2/2024,0.0
+520,    CDCDCO1,"AC,NATURA SELECCION ESPECIAL,OLIVA VE,6X500ML,E,ESP,M.I.",185,421,211222                        ,6010900024               ,12/20/2024,185.0
+521,    CDCDCO1,"AC,NATURA SELECCION ESPECIAL,OLIVA VE,6X500ML,E,ESP,M.I.",185,491,240223                        ,6010900024               ,2/28/2025,0.0
+522,    CDCDCO1,"AC,NATURA,GIR,12X1,5L,C,ESP,M.I./ARL",60,287,090822                        ,6010010007               ,8/8/2024,0.0
+523,    CDCDCO1,"AC,NATURA,GIR,12X1,5L,C,ESP,M.I./ARL",60,299,210822                        ,6010010007               ,8/20/2024,0.0
+524,    CDCDCO1,"AC,NATURA,GIR,12X1,5L,C,ESP,M.I./ARL",60,310,010922                        ,6010010007               ,8/31/2024,0.0
+525,    CDCDCO1,"AC,NATURA,GIR,12X1,5L,C,ESP,M.I./ARL",60,320,110922                        ,6010010007               ,9/10/2024,0.0
+526,    CDCDCO1,"AC,NATURA,GIR,12X1,5L,C,ESP,M.I./ARL",60,364,251022                        ,6010010007               ,10/24/2024,0.0
+527,    CDCDCO1,"AC,NATURA,GIR,12X1,5L,C,ESP,M.I./ARL",60,387,181122                        ,6010010007               ,11/16/2024,0.0
+528,    CDCDCO1,"AC,NATURA,GIR,12X1,5L,C,ESP,M.I./ARL",60,393,231122                        ,6010010007               ,11/22/2024,0.0
+529,    CDCDCO1,"AC,NATURA,GIR,12X1,5L,C,ESP,M.I./ARL",60,406,061222                        ,6010010007               ,12/5/2024,0.0
+530,    CDCDCO1,"AC,NATURA,GIR,12X1,5L,C,ESP,M.I./ARL",60,478,160223                        ,6010010007               ,2/15/2025,0.0
+531,    CDCDCO1,"AC,NATURA,GIR,12X1,5L,C,ESP,M.I./ARL",60,493,030323                        ,6010010007               ,3/2/2025,0.0
+532,    CDCDCO1,"AC,NATURA,GIR,12X1,5L,C,ESP,M.I./ARL",60,512,220323                        ,6010010007               ,3/21/2025,0.0
+533,    CDCDCO1,"AC,NATURA,GIR,12X1,5L,C,ESP,M.I./ARL",60,517,270323                        ,6010010007               ,3/26/2025,0.0
+534,    CDCDCO1,"AC,NATURA,GIR,12X1,5L,C,ESP,M.I./ARL",60,538,170423                        ,6010010007               ,4/16/2025,0.0
+535,    CDCDCO1,"AC,NATURA,GIR,12X1,5L,C,ESP,M.I./ARL",60,543,220423                        ,6010010007               ,4/21/2025,0.0
+536,    CDCDCO1,"AC,NATURA,GIR,12X1,5L,C,ESP,M.I./ARL",60,548,270423                        ,6010010007               ,4/26/2025,0.0
+537,    CDCDCO1,"AC,NATURA,GIR,12X1,5L,C,ESP,M.I./ARL",60,550,290423                        ,6010010007               ,4/28/2025,0.0
+538,    CDCDCO1,"AC,NATURA,GIR,12X1,5L,C,ESP,M.I./ARL",60,568,170523                        ,6010010007               ,5/16/2025,0.0
+539,    CDCDCO1,"AC,NATURA,GIR,12X1,5L,C,ESP,M.I./ARL",60,603,210623                        ,6010010007               ,6/20/2025,0.0
+540,    CDCDCO1,"AC,NATURA,GIR,12X1,5L,C,ESP,M.I./ARL",60,613,300623                        ,6010010007               ,6/30/2025,0.0
+541,    CDCDCO1,"AC,NATURA,GIR,12X1,5L,C,ESP,M.I./ARL",60,630,180723                        ,6010010007               ,7/17/2025,0.0
+542,    CDCDCO1,"AC,NATURA,GIR,12X1,5L,C,ESP,M.I./ARL",60,637,250723                        ,6010010007               ,7/24/2025,1.0
+543,    CDCDCO1,"AC,NATURA,GIR,12X1,5L,C,ESP,M.I./ARL",60,642,300723                        ,6010010007               ,7/29/2025,0.0
+544,    CDCDCO1,"AC,NATURA,GIR,12X1,5L,C,ESP,M.I./ARL",60,648,060823                        ,6010010007               ,8/4/2025,0.0
+545,    CDCDCO1,"AC,NATURA,GIR,12X1,5L,C,ESP,M.I./ARL",60,656,130823                        ,6010010007               ,8/12/2025,0.0
+546,    CDCDCO1,"AC,NATURA,GIR,12X1,5L,C,ESP,M.I./ARL",60,671,280823                        ,6010010007               ,8/27/2025,0.0
+547,    CDCDCO1,"AC,NATURA,GIR,12X1,5L,C,ESP,M.I./ARL",60,690,160923                        ,6010010007               ,9/15/2025,0.0
+548,    CDCDCO1,"AC,NATURA,GIR,12X1,5L,C,ESP,M.I./ARL",60,698,240923                        ,6010010007               ,9/23/2025,0.0
+549,    CDCDCO1,"AC,NATURA,GIR,12X500ML,C,ESP,M.I.",160,326,170922                        ,6010010184               ,9/16/2024,0.0
+550,    CDCDCO1,"AC,NATURA,GIR,12X500ML,C,ESP,M.I.",160,354,161022                        ,6010010184               ,10/14/2024,0.0
+551,    CDCDCO1,"AC,NATURA,GIR,12X500ML,C,ESP,M.I.",160,372,021122                        ,6010010184               ,11/1/2024,0.0
+552,    CDCDCO1,"AC,NATURA,GIR,12X500ML,C,ESP,M.I.",160,415,151222                        ,6010010184               ,12/14/2024,0.0
+553,    CDCDCO1,"AC,NATURA,GIR,15X900ML,C,ESP,M.I.",72,305,270822                        ,6010010077               ,8/26/2024,0.0
+554,    CDCDCO1,"AC,NATURA,GIR,15X900ML,C,ESP,M.I.",72,314,060922                        ,6010010077               ,9/4/2024,0.0
+555,    CDCDCO1,"AC,NATURA,GIR,15X900ML,C,ESP,M.I.",72,329,190922                        ,6010010077               ,9/19/2024,0.0
+556,    CDCDCO1,"AC,NATURA,GIR,15X900ML,C,ESP,M.I.",72,396,261122                        ,6010010077               ,11/25/2024,0.0
+557,    CDCDCO1,"AC,NATURA,GIR,15X900ML,C,ESP,M.I.",72,416,161222                        ,6010010077               ,12/15/2024,0.0
+558,    CDCDCO1,"AC,NATURA,GIR,15X900ML,C,ESP,M.I.",72,490,280223                        ,6010010077               ,2/27/2025,0.0
+559,    CDCDCO1,"AC,NATURA,GIR,15X900ML,C,ESP,M.I.",72,554,030523                        ,6010010077               ,5/2/2025,0.0
+560,    CDCDCO1,"AC,NATURA,GIR,15X900ML,C,ESP,M.I.",72,570,190523                        ,6010010077               ,5/18/2025,0.0
+561,    CDCDCO1,"AC,NATURA,GIR,15X900ML,C,ESP,M.I.",72,576,230523                        ,6010010077               ,5/24/2025,0.0
+562,    CDCDCO1,"AC,NATURA,GIR,15X900ML,C,ESP,M.I.",72,586,040623                        ,6010010077               ,6/3/2025,0.0
+563,    CDCDCO1,"AC,NATURA,GIR,15X900ML,C,ESP,M.I.",72,617,050723                        ,6010010077               ,7/4/2025,0.0
+564,    CDCDCO1,"AC,NATURA,GIR,15X900ML,C,ESP,M.I.",72,627,150723                        ,6010010077               ,7/14/2025,0.0
+565,    CDCDCO1,"AC,NATURA,GIR,15X900ML,C,ESP,M.I.",72,644,010823                        ,6010010077               ,7/31/2025,0.0
+566,    CDCDCO1,"AC,NATURA,GIR,15X900ML,C,ESP,M.I.",72,661,180823                        ,6010010077               ,8/17/2025,0.0
+567,    CDCDCO1,"AC,NATURA,GIR,15X900ML,C,ESP,M.I.",72,664,210823                        ,6010010077               ,8/20/2025,4006.0
+568,    CDCDCO1,"AC,NATURA,GIR,15X900ML,C,ESP,M.I.",72,683,090923                        ,6010010077               ,9/8/2025,288.0
+569,    CDCDCO1,"AC,NATURA,GIR,15X900ML,C,ESP,M.I.",72,696,220923                        ,6010010077               ,9/21/2025,1440.0
+570,    CDCDCO1,"AC,NATURA,GIR,4X5L,C,ESP,M.I./ARL",60,294,160822                        ,6010010112               ,8/15/2024,0.0
+571,    CDCDCO1,"AC,NATURA,GIR,4X5L,C,ESP,M.I./ARL",60,321,120922                        ,6010010112               ,9/11/2024,0.0
+572,    CDCDCO1,"AC,NATURA,GIR,4X5L,C,ESP,M.I./ARL",60,422,221222                        ,6010010112               ,12/21/2024,0.0
+573,    CDCDCO1,"AC,NATURA,GIR,4X5L,C,ESP,M.I./ARL",60,469,060223                        ,6010010112               ,2/6/2025,0.0
+574,    CDCDCO1,"AC,NATURA,GIR,4X5L,C,ESP,M.I./ARL",60,485,210223                        ,6010010112               ,2/22/2025,236.0
+575,    CDCDCO1,"AC,NATURA,GIR,4X5L,C,ESP,M.I./ARL",60,555,040523                        ,6010010112               ,5/3/2025,360.0
+576,    CDCDCO1,"AC,NATURA,GIR,4X5L,C,ESP,M.I./ARL",60,603,170623                        ,6010010112               ,6/20/2025,1440.0
+577,    CDCDCO1,"AC,NATURA,GIR,4X5L,C,ESP,M.I./ARL",60,609,270623                        ,6010010112               ,6/26/2025,419.0
+578,    CDCDCO1,"AC,NATURA,GIR,4X5L,C,ESP,M.I./ARL",60,638,250723                        ,6010010112               ,7/25/2025,0.0
+579,    CDCDCO1,"AC,NATURA,GIR,4X5L,C,ESP,M.I./ARL",60,660,170823                        ,6010010112               ,8/16/2025,300.0
+580,    CDCDCO1,"AC,NATURA,GIR,4X5L,C,ESP,M.I./ARL",60,685,110923                        ,6010010112               ,9/10/2025,2880.0
+581,    CDCDCO1,"AC,NATURA,GIR,4X5L,C,ESP,M.I./ARL",60,702,280923                        ,6010010112               ,9/27/2025,1440.0
+582,    CDCDCO1,"AC,NATURA,GIR,6X3L,B,ESP,M.I./ARL",50,279,300722                        ,6010010008               ,7/31/2024,0.0
+583,    CDCDCO1,"AC,NATURA,GIR,6X3L,B,ESP,M.I./ARL",50,310,300822                        ,6010010008               ,8/31/2024,0.0
+584,    CDCDCO1,"AC,NATURA,GIR,6X3L,B,ESP,M.I./ARL",50,325,160922                        ,6010010008               ,9/15/2024,0.0
+585,    CDCDCO1,"AC,NATURA,GIR,6X3L,B,ESP,M.I./ARL",50,358,171022                        ,6010010008               ,10/18/2024,0.0
+586,    CDCDCO1,"AC,NATURA,GIR,6X3L,B,ESP,M.I./ARL",50,367,281022                        ,6010010008               ,10/27/2024,0.0
+587,    CDCDCO1,"AC,NATURA,GIR,6X3L,B,ESP,M.I./ARL",50,414,141222                        ,6010010008               ,12/13/2024,0.0
+588,    CDCDCO1,"AC,NATURA,GIR,6X3L,B,ESP,M.I./ARL",50,504,130323                        ,6010010008               ,3/13/2025,0.0
+589,    CDCDCO1,"AC,NATURA,GIR,6X3L,B,ESP,M.I./ARL",50,515,250323                        ,6010010008               ,3/24/2025,0.0
+590,    CDCDCO1,"AC,NATURA,GIR,6X3L,B,ESP,M.I./ARL",50,521,300323                        ,6010010008               ,3/30/2025,0.0
+591,    CDCDCO1,"AC,NATURA,GIR,6X3L,B,ESP,M.I./ARL",50,542,210423                        ,6010010008               ,4/20/2025,0.0
+592,    CDCDCO1,"AC,NATURA,GIR,6X3L,B,ESP,M.I./ARL",50,559,080523                        ,6010010008               ,5/7/2025,0.0
+593,    CDCDCO1,"AC,NATURA,GIR,6X3L,B,ESP,M.I./ARL",50,568,170523                        ,6010010008               ,5/16/2025,0.0
+594,    CDCDCO1,"AC,NATURA,GIR,6X3L,B,ESP,M.I./ARL",50,612,300623                        ,6010010008               ,6/29/2025,0.0
+595,    CDCDCO1,"AC,NATURA,GIR,6X3L,B,ESP,M.I./ARL",50,644,010823                        ,6010010008               ,7/31/2025,0.0
+596,    CDCDCO1,"AC,NATURA,GIR,6X3L,B,ESP,M.I./ARL",50,657,120823                        ,6010010008               ,8/13/2025,0.0
+597,    CDCDCO1,"AC,NATURA,GIR,6X3L,B,ESP,M.I./ARL",50,674,310823                        ,6010010008               ,8/30/2025,0.0
+598,    CDCDCO1,"AC,NATURA,GIR/OLIVA,12X1,5L,C,ESP,M.I.",60,242,250622                        ,6011570002               ,6/24/2024,88.0
+599,    CDCDCO1,"AC,NATURA,GIR/OLIVA,12X1,5L,C,ESP,M.I.",60,504,140323                        ,6011570002               ,3/13/2025,60.0
+600,    CDCDCO1,"AC,NATURA,GIR/OLIVA,12X1,5L,C,ESP,M.I.",60,533,120423                        ,6011570002               ,4/11/2025,240.0
+601,    CDCDCO1,"AC,NATURA,GIR/OLIVA,12X500ML,C,ESP,M.I.",160,236,190622                        ,6011570005               ,6/18/2024,22.0
+602,    CDCDCO1,"AC,NATURA,GIR/OLIVA,12X500ML,C,ESP,M.I.",160,373,031122                        ,6011570005               ,11/2/2024,160.0
+603,    CDCDCO1,"AC,NATURA,GIR/OLIVA,15X900ML,C,ESP,M.I.",72,296,170822                        ,6011570001               ,8/17/2024,0.0
+604,    CDCDCO1,"AC,NATURA,GIR/OLIVA,15X900ML,C,ESP,M.I.",72,443,120123                        ,6011570001               ,1/11/2025,25.0
+605,    CDCDCO1,"AC,NATURA,GIR/OLIVA,15X900ML,C,ESP,M.I.",72,505,150323                        ,6011570001               ,3/14/2025,72.0
+606,    CDCDCO1,"AC,SOJOLA,SOJA,12X1,5L,B,ESP,M.I.",60,317,070922                        ,6010570019               ,9/7/2024,0.0
+607,    CDCDCO1,"AC,SOJOLA,SOJA,12X1,5L,B,ESP,M.I.",60,394,241122                        ,6010570019               ,11/23/2024,0.0
+608,    CDCDCO1,"AC,SOJOLA,SOJA,12X900ML,B,ESP,M.I.",105,312,010922                        ,6010570018               ,9/2/2024,0.0
+609,    CDCDCO1,"AC,SOJOLA,SOJA,12X900ML,B,ESP,M.I.",105,364,251022                        ,6010570018               ,10/24/2024,0.0
+610,    CDCDCO1,"AC,SOJOLA,SOJA,12X900ML,B,ESP,M.I.",105,384,141122                        ,6010570018               ,11/13/2024,0.0
+611,    CDCDCO1,"AC,SOJOLA,SOJA,12X900ML,B,ESP,M.I.",105,395,261122                        ,6010570018               ,11/24/2024,0.0
+612,    CDCDCO1,"KET,NATURA L.G.,12,250 GR,DP,CT (CON TAPA),ESP,MERCADO INTER",260,169,170623                        ,6040100010               ,4/12/2024,0.0
+613,    CDCDCO1,"KET,NATURA L.G.,12,250 GR,DP,CT (CON TAPA),ESP,MERCADO INTER",260,195,130723                        ,6040100010               ,5/8/2024,0.0
+614,    CDCDCO1,"KET,NATURA L.G.,12,250 GR,DP,CT (CON TAPA),ESP,MERCADO INTER",260,228,150823                        ,6040100010               ,6/10/2024,1000.0
+615,    CDCDCO1,"KET,NATURA,12,500 G,DP,CT,ESP,M.I.",144,177,250623                        ,6040100009               ,4/20/2024,158.0
+616,    CDCDCO1,"KET,NATURA,12,500 G,DP,CT,ESP,M.I.",144,247,030923                        ,6040100009               ,6/29/2024,288.0
+617,    CDCDCO1,"KET,NATURA,192,8 G,SH,ST,ESP,M.I.",377,135,130723                        ,6040100001               ,3/9/2024,29.0
+618,    CDCDCO1,"KET,NATURA,4,3000GR,SH,ST,ESP,M.I.",80,181,290623                        ,6040100003               ,4/24/2024,0.0
+619,    CDCDCO1,"KET,NATURA,4,3000GR,SH,ST,ESP,M.I.",80,211,290723                        ,6040100003               ,5/24/2024,26.0
+620,    CDCDCO1,"MAYO,CADA DIA,LINEA DEL CHEF,4,2900 CC,SH,ST (SIN TAPA),ESP,",80,130,R080623                       ,6030050074               ,3/4/2024,0.0
+621,    CDCDCO1,"MAYO,CADA DIA,LINEA DEL CHEF,4,2900 CC,SH,ST (SIN TAPA),ESP,",80,132,R100623                       ,6030050074               ,3/6/2024,0.0
+622,    CDCDCO1,"MAYO,CADA DIA,LINEA DEL CHEF,4,2900 CC,SH,ST (SIN TAPA),ESP,",80,159,R070723                       ,6030050074               ,4/2/2024,480.0
+623,    CDCDCO1,"MAYO,CADA DIA,RVL,12,250 CC,L.G,DP,ST (SIN TAPA),ESP,MERCADO",260,137,R150623                       ,6030050070               ,3/11/2024,0.0
+624,    CDCDCO1,"MAYO,CADA DIA,RVL,12,250 CC,L.G,DP,ST (SIN TAPA),ESP,MERCADO",260,145,R230623                       ,6030050070               ,3/19/2024,0.0
+625,    CDCDCO1,"MAYO,CADA DIA,RVL,12,250 CC,L.G,DP,ST (SIN TAPA),ESP,MERCADO",260,151,R290623                       ,6030050070               ,3/25/2024,0.0
+626,    CDCDCO1,"MAYO,CADA DIA,RVL,12,250 CC,L.G,DP,ST (SIN TAPA),ESP,MERCADO",260,242,R280923                       ,6030050070               ,6/24/2024,12866.0
+627,    CDCDCO1,"MAYO,CADA DIA,RVL,12,250 CC,L.G,DP,ST (SIN TAPA),ESP,MERCADO",260,243,R290923                       ,6030050070               ,6/25/2024,6760.0
+628,    CDCDCO1,"MAYO,CADA DIA,RVL,12,500 CC,L.G,DP,CT,ESP,MERCADO INTERNO",144,134,R120623                       ,6030050071               ,3/8/2024,0.0
+629,    CDCDCO1,"MAYO,CADA DIA,RVL,12,500 CC,L.G,DP,CT,ESP,MERCADO INTERNO",144,135,R130623                       ,6030050071               ,3/9/2024,0.0
+630,    CDCDCO1,"MAYO,CADA DIA,RVL,12,500 CC,L.G,DP,CT,ESP,MERCADO INTERNO",144,152,R300623                       ,6030050071               ,3/26/2024,0.0
+631,    CDCDCO1,"MAYO,CADA DIA,RVL,12,500 CC,L.G,DP,CT,ESP,MERCADO INTERNO",144,162,R100723                       ,6030050071               ,4/5/2024,0.0
+632,    CDCDCO1,"MAYO,CADA DIA,RVL,12,500 CC,L.G,DP,CT,ESP,MERCADO INTERNO",144,254,R101023                       ,6030050071               ,7/6/2024,707.0
+633,    CDCDCO1,"MAYO,CADA DIA,RVL,20,125 CC,L.G,SH,ST (SIN TAPA),ESP,M.I./AR",272,171,R190723                       ,6030050069               ,4/14/2024,0.0
+634,    CDCDCO1,"MAYO,CADA DIA,RVL,20,125 CC,L.G,SH,ST (SIN TAPA),ESP,M.I./AR",272,177,R250723                       ,6030050069               ,4/20/2024,792.0
+635,    CDCDCO1,"MAYO,CADA DIA,RVL,20,125 CC,L.G,SH,ST (SIN TAPA),ESP,M.I./AR",272,242,R280923                       ,6030050069               ,6/24/2024,7344.0
+636,    CDCDCO1,"MAYO,CADA DIA,RVL,8,1000 CC,L.G,DP,CT,ESP,MERCADO INTERNO",108,173,R210723                       ,6030050072               ,4/16/2024,371.0
+637,    CDCDCO1,"MAYO,MAYOLIVA,L.G,12,250 CC,DP,ST (SIN TAPA),ESP,M.I./ARL",260,163,110623                        ,6030040040               ,4/6/2024,0.0
+638,    CDCDCO1,"MAYO,MAYOLIVA,L.G,12,250 CC,DP,ST (SIN TAPA),ESP,M.I./ARL",260,229,160823                        ,6030040040               ,6/11/2024,608.0
+639,    CDCDCO1,"MAYO,MAYOLIVA,L.G,12,500 CC,DP,CT,ESP,M.I./ARL",144,166,140623                        ,6030040007               ,4/9/2024,0.0
+640,    CDCDCO1,"MAYO,MAYOLIVA,L.G,12,500 CC,DP,CT,ESP,M.I./ARL",144,229,160823                        ,6030040007               ,6/11/2024,58.0
+641,    CDCDCO1,"MAYO,MAYOLIVA,L.G,20,125 CC,SH,ST (SIN TAPA),ESP,M.I./ARL",272,163,110623                        ,6030040073               ,4/6/2024,0.0
+642,    CDCDCO1,"MAYO,NATURA,RVL 31%,L.G,12,250 CC,DP,ST (SIN TAPA),ESP,M.I./",260,148,250622                        ,6030010007               ,3/22/2024,0.0
+643,    CDCDCO1,"MAYO,NATURA,RVL 31%,L.G,12,250 CC,DP,ST (SIN TAPA),ESP,M.I./",260,153,010723                        ,6030010007               ,3/27/2024,0.0
+644,    CDCDCO1,"MAYO,NATURA,RVL 31%,L.G,12,250 CC,DP,ST (SIN TAPA),ESP,M.I./",260,165,130723                        ,6030010007               ,4/8/2024,0.0
+645,    CDCDCO1,"MAYO,NATURA,RVL 31%,L.G,12,250 CC,DP,ST (SIN TAPA),ESP,M.I./",260,167,150723                        ,6030010007               ,4/10/2024,1891.0
+646,    CDCDCO1,"MAYO,NATURA,RVL 31%,L.G,12,250 CC,DP,ST (SIN TAPA),ESP,M.I./",260,187,040823                        ,6030010007               ,4/30/2024,3640.0
+647,    CDCDCO1,"MAYO,NATURA,RVL 31%,L.G,12,250 CC,DP,ST (SIN TAPA),ESP,M.I./",260,190,070823                        ,6030010007               ,5/3/2024,9360.0
+648,    CDCDCO1,"MAYO,NATURA,RVL 31%,L.G,12,250 CC,DP,ST (SIN TAPA),ESP,M.I./",260,197,140823                        ,6030010007               ,5/10/2024,2860.0
+649,    CDCDCO1,"MAYO,NATURA,RVL 31%,L.G,12,250 CC,DP,ST (SIN TAPA),ESP,M.I./",260,205,220823                        ,6030010007               ,5/18/2024,7020.0
+650,    CDCDCO1,"MAYO,NATURA,RVL 31%,L.G,12,250 CC,DP,ST (SIN TAPA),ESP,M.I./",260,215,010923                        ,6030010007               ,5/28/2024,4680.0
+651,    CDCDCO1,"MAYO,NATURA,RVL 31%,L.G,12,250 CC,DP,ST (SIN TAPA),ESP,M.I./",260,220,060923                        ,6030010007               ,6/2/2024,3640.0
+652,    CDCDCO1,"MAYO,NATURA,RVL 31%,L.G,12,250 CC,DP,ST (SIN TAPA),ESP,M.I./",260,251,071023                        ,6030010007               ,7/3/2024,3640.0
+653,    CDCDCO1,"MAYO,NATURA,RVL 31%,L.G,12,500 CC,DP,CT,ESP,M.I./ARL",144,130,080623                        ,6030010019               ,3/4/2024,0.0
+654,    CDCDCO1,"MAYO,NATURA,RVL 31%,L.G,12,500 CC,DP,CT,ESP,M.I./ARL",144,139,170623                        ,6030010019               ,3/13/2024,0.0
+655,    CDCDCO1,"MAYO,NATURA,RVL 31%,L.G,12,500 CC,DP,CT,ESP,M.I./ARL",144,149,270623                        ,6030010019               ,3/23/2024,0.0
+656,    CDCDCO1,"MAYO,NATURA,RVL 31%,L.G,12,500 CC,DP,CT,ESP,M.I./ARL",144,153,010723                        ,6030010019               ,3/27/2024,1738.0
+657,    CDCDCO1,"MAYO,NATURA,RVL 31%,L.G,12,500 CC,DP,CT,ESP,M.I./ARL",144,175,230723                        ,6030010019               ,4/18/2024,144.0
+658,    CDCDCO1,"MAYO,NATURA,RVL 31%,L.G,12,500 CC,DP,CT,ESP,M.I./ARL",144,179,270723                        ,6030010019               ,4/22/2024,144.0
+659,    CDCDCO1,"MAYO,NATURA,RVL 31%,L.G,12,500 CC,DP,CT,ESP,M.I./ARL",144,184,010823                        ,6030010019               ,4/27/2024,3744.0
+660,    CDCDCO1,"MAYO,NATURA,RVL 31%,L.G,12,500 CC,DP,CT,ESP,M.I./ARL",144,196,130823                        ,6030010019               ,5/9/2024,1872.0
+661,    CDCDCO1,"MAYO,NATURA,RVL 31%,L.G,12,500 CC,DP,CT,ESP,M.I./ARL",144,205,220823                        ,6030010019               ,5/18/2024,2304.0
+662,    CDCDCO1,"MAYO,NATURA,RVL 31%,L.G,12,500 CC,DP,CT,ESP,M.I./ARL",144,215,010923                        ,6030010019               ,5/28/2024,4608.0
+663,    CDCDCO1,"MAYO,NATURA,RVL 31%,L.G,12,500 CC,DP,CT,ESP,M.I./ARL",144,228,140923                        ,6030010019               ,6/10/2024,0.0
+664,    CDCDCO1,"MAYO,NATURA,RVL 31%,L.G,192,8CC,SH,ST (SIN TAPA),ESP,M.I./A",377,123,010723                        ,6030010129               ,2/26/2024,290.0
+665,    CDCDCO1,"MAYO,NATURA,RVL 31%,L.G,20,125 CC,SH,ST (SIN TAPA),ESP,M.I./",272,136,140623                        ,6030010170               ,3/10/2024,0.0
+666,    CDCDCO1,"MAYO,NATURA,RVL 31%,L.G,20,125 CC,SH,ST (SIN TAPA),ESP,M.I./",272,153,010723                        ,6030010170               ,3/27/2024,0.0
+667,    CDCDCO1,"MAYO,NATURA,RVL 31%,L.G,20,125 CC,SH,ST (SIN TAPA),ESP,M.I./",272,161,090723                        ,6030010170               ,4/4/2024,0.0
+668,    CDCDCO1,"MAYO,NATURA,RVL 31%,L.G,20,125 CC,SH,ST (SIN TAPA),ESP,M.I./",272,162,040723                        ,6030010170               ,4/5/2024,0.0
+669,    CDCDCO1,"MAYO,NATURA,RVL 31%,L.G,20,125 CC,SH,ST (SIN TAPA),ESP,M.I./",272,184,010823                        ,6030010170               ,4/27/2024,2096.0
+670,    CDCDCO1,"MAYO,NATURA,RVL 31%,L.G,20,125 CC,SH,ST (SIN TAPA),ESP,M.I./",272,186,030823                        ,6030010170               ,4/29/2024,4080.0
+671,    CDCDCO1,"MAYO,NATURA,RVL 31%,L.G,20,125 CC,SH,ST (SIN TAPA),ESP,M.I./",272,189,060823                        ,6030010170               ,5/2/2024,7616.0
+672,    CDCDCO1,"MAYO,NATURA,RVL 31%,L.G,20,125 CC,SH,ST (SIN TAPA),ESP,M.I./",272,190,070823                        ,6030010170               ,5/3/2024,8704.0
+673,    CDCDCO1,"MAYO,NATURA,RVL 31%,L.G,20,125 CC,SH,ST (SIN TAPA),ESP,M.I./",272,197,140823                        ,6030010170               ,5/10/2024,1088.0
+674,    CDCDCO1,"MAYO,NATURA,RVL 31%,L.G,20,125 CC,SH,ST (SIN TAPA),ESP,M.I./",272,199,160823                        ,6030010170               ,5/12/2024,12240.0
+675,    CDCDCO1,"MAYO,NATURA,RVL 31%,L.G,20,125 CC,SH,ST (SIN TAPA),ESP,M.I./",272,203,200823                        ,6030010170               ,5/16/2024,272.0
+676,    CDCDCO1,"MAYO,NATURA,RVL 31%,L.G,20,125 CC,SH,ST (SIN TAPA),ESP,M.I./",272,215,010923                        ,6030010170               ,5/28/2024,1904.0
+677,    CDCDCO1,"MAYO,NATURA,RVL 31%,L.G,20,125 CC,SH,ST (SIN TAPA),ESP,M.I./",272,218,040923                        ,6030010170               ,5/31/2024,2448.0
+678,    CDCDCO1,"MAYO,NATURA,RVL 31%,L.G,20,125 CC,SH,ST (SIN TAPA),ESP,M.I./",272,235,210923                        ,6030010170               ,6/17/2024,0.0
+679,    CDCDCO1,"MAYO,NATURA,RVL 31%,L.G,4,2900 CC,SH,ST (SIN TAPA),ESP,M.I./",80,133,110623                        ,6030010208               ,3/7/2024,0.0
+680,    CDCDCO1,"MAYO,NATURA,RVL 31%,L.G,4,2900 CC,SH,ST (SIN TAPA),ESP,M.I./",80,156,040723                        ,6030010208               ,3/30/2024,0.0
+681,    CDCDCO1,"MAYO,NATURA,RVL 31%,L.G,4,2900 CC,SH,ST (SIN TAPA),ESP,M.I./",80,165,130723                        ,6030010208               ,4/8/2024,0.0
+682,    CDCDCO1,"MAYO,NATURA,RVL 31%,L.G,4,2900 CC,SH,ST (SIN TAPA),ESP,M.I./",80,189,060823                        ,6030010208               ,5/2/2024,3105.0
+683,    CDCDCO1,"MAYO,NATURA,RVL 31%,L.G,4,2900 CC,SH,ST (SIN TAPA),ESP,M.I./",80,209,260823                        ,6030010208               ,5/22/2024,480.0
+684,    CDCDCO1,"MAYO,NATURA,RVL 31%,L.G,8,1000 CC,DP,CT,ESP,M.I./ARL",108,130,080623                        ,6030010026               ,3/4/2024,1087.0
+685,    CDCDCO1,"MAYO,NATURA,RVL 31%,L.G,8,1000 CC,DP,CT,ESP,M.I./ARL",108,158,060723                        ,6030010026               ,4/1/2024,1296.0
+686,    CDCDCO1,"MAYO,NATURA,RVL 31%,L.G,8,1000 CC,DP,CT,ESP,M.I./ARL",108,165,130723                        ,6030010026               ,4/8/2024,1512.0
+687,    CDCDCO1,"MAYO,NATURA,RVL 31%,L.G,8,1000 CC,DP,CT,ESP,M.I./ARL",108,181,290723                        ,6030010026               ,4/24/2024,1512.0
+688,    CDCDCO1,"MAYO,NATURA,RVL 31%,L.G,8,1000 CC,DP,CT,ESP,M.I./ARL",108,184,010823                        ,6030010026               ,4/27/2024,4212.0
+689,    CDCDCO1,"MAYO,NATURA,RVL 31%,L.G,8,1000 CC,DP,CT,ESP,M.I./ARL",108,195,120823                        ,6030010026               ,5/8/2024,1944.0
+690,    CDCDCO1,"MAYO,NATURA,RVL 31%,L.G,8,1000 CC,DP,CT,ESP,M.I./ARL",108,215,010923                        ,6030010026               ,5/28/2024,3456.0
+691,    CDCDCO1,"MAYO,NATURA,RVL 31%,L.G,8,1000 CC,DP,CT,ESP,M.I./ARL",108,249,051023                        ,6030010026               ,7/1/2024,1836.0
+692,    CDCDCO1,"MOSTAZA,ADEREZO NATURA,12,250GR,DP,CT,ESP,M.I.",260,162,100623                        ,6090020009               ,4/5/2024,0.0
+693,    CDCDCO1,"MOSTAZA,ADEREZO NATURA,12,250GR,DP,CT,ESP,M.I.",260,213, 230723                       ,6090020009               ,5/26/2024,0.0
+694,    CDCDCO1,"MOSTAZA,ADEREZO NATURA,12,250GR,DP,CT,ESP,M.I.",260,220,070823                        ,6090020009               ,6/2/2024,0.0
+695,    CDCDCO1,"MOSTAZA,ADEREZO NATURA,12,250GR,DP,CT,ESP,M.I.",260,275,011023                        ,6090020009               ,7/27/2024,1520.0
+696,    CDCDCO1,"MOSTAZA,ADEREZO NATURA,12,500G,DP,CT,ESP,M.I.",144,153,010623                        ,6090020011               ,3/27/2024,0.0
+697,    CDCDCO1,"MOSTAZA,ADEREZO NATURA,12,500G,DP,CT,ESP,M.I.",144,186,040723                        ,6090020011               ,4/29/2024,0.0
+698,    CDCDCO1,"MOSTAZA,ADEREZO NATURA,12,500G,DP,CT,ESP,M.I.",144,220,070823                        ,6090020011               ,6/2/2024,108.0
+699,    CDCDCO1,"MOSTAZA,ADEREZO NATURA,4,3000GR,SH,ST,ESP,M.I.",80,151,300523                        ,6090020012               ,3/25/2024,0.0
+700,    CDCDCO1,"MOSTAZA,ADEREZO NATURA,4,3000GR,SH,ST,ESP,M.I.",80,237,240823                        ,6090020012               ,6/19/2024,10.0
+701,    CDCDCO1,"RO.VEG.(AL),MAZOLA CL.,MAIZ,12X120GRS,ESP,M.I.",224,203,137/22                        ,6010140007               ,5/16/2024,0.0
+702,    CDCDCO1,"RO.VEG.(AL),MAZOLA CL.,MAIZ,12X120GRS,ESP,M.I.",224,350,284/22                        ,6010140007               ,10/10/2024,0.0
+703,    CDCDCO1,"RO.VEG.(AL),MAZOLA MANTECA,12X12X120GRS,ESP,M.I.",224,274,208/22                        ,6010140008               ,7/26/2024,0.0
+704,    CDCDCO1,"RO.VEG.(AL),MAZOLA MANTECA,12X12X120GRS,ESP,M.I.",224,353,287/22                        ,6010140008               ,10/13/2024,125.0
+705,    CDCDCO1,"RO.VEG.(AL),NATURA,GIR,12X120GRS,ESP,M.I.",224,182,116/22                        ,6010550008               ,4/25/2024,0.0
+706,    CDCDCO1,"RO.VEG.(AL),NATURA,GIR,12X120GRS,ESP,M.I.",224,213,147/22                        ,6010550008               ,5/26/2024,0.0
+707,    CDCDCO1,"RO.VEG.(AL),NATURA,GIR,12X120GRS,ESP,M.I.",224,290,224/22                        ,6010550008               ,8/11/2024,0.0
+708,    CDCDCO1,"RO.VEG.(AL),NATURA,GIR,12X120GRS,ESP,M.I.",224,295,229/22                        ,6010550008               ,8/16/2024,0.0
+709,    CDCDCO1,"RO.VEG.(AL),NATURA,GIR,12X120GRS,ESP,M.I.",224,329,263/22                        ,6010550008               ,9/19/2024,0.0
+710,    CDCDCO1,"RO.VEG.(AL),NATURA,GIR,12X120GRS,ESP,M.I.",224,333,267/22                        ,6010550008               ,9/23/2024,0.0
+711,    CDCDCO1,"RO.VEG.(AL),NATURA,GIR,12X120GRS,ESP,M.I.",224,384,318/22                        ,6010550008               ,11/13/2024,0.0
+712,    CDCDCO1,"RO.VEG.(AL),NATURA,GIR,12X120GRS,ESP,M.I.",224,632,201/23                        ,6010550008               ,7/19/2025,0.0
+713,    CDCDCO1,"RO.VEG.(AL),NATURA,OLIVA,12X120GRS,ESP,M.I.",224,283,217/22                        ,6011640001               ,8/4/2024,0.0
+714,    CDCDCO1,"RO.VEG.(AL),NATURA,OLIVA,12X120GRS,ESP,M.I.",224,554,123/23                        ,6011640001               ,5/2/2025,0.0
+715,    CDCDCO1,"RO.VEG.(AL),NATURA,OLIVA,12X120GRS,ESP,M.I.",224,570,139/22                        ,6011640001               ,5/18/2025,6.0
+716,    CDCDCO1,"SGOLF,NATURA L.G.,12,250 GR,DP,ST (SIN TAPA),ESP,MERCADO INT",260,123,010623                        ,6050100007               ,2/26/2024,0.0
+717,    CDCDCO1,"SGOLF,NATURA L.G.,12,250 GR,DP,ST (SIN TAPA),ESP,MERCADO INT",260,182,300723                        ,6050100007               ,4/25/2024,0.0
+718,    CDCDCO1,"SGOLF,NATURA L.G.,12,250 GR,DP,ST (SIN TAPA),ESP,MERCADO INT",260,184,010823                        ,6050100007               ,4/27/2024,555.0
+719,    CDCDCO1,"SGOLF,NATURA L.G.,12,250 GR,DP,ST (SIN TAPA),ESP,MERCADO INT",260,245,011023                        ,6050100007               ,6/27/2024,260.0
+720,    CDCDCO1,"SGOLF,NATURA,20,125 CC,SH,ST,ESP,M.I.",272,124,020623                        ,6050100002               ,2/27/2024,0.0
+721,    CDCDCO1,"SGOLF,NATURA,20,125 CC,SH,ST,ESP,M.I.",272,243,290923                        ,6050100002               ,6/25/2024,544.0
+722,    CDCDCO1,"SGOLF,NATURA,4,2900 CC,SH,ST,ESP,M.I.",80,130,080623                        ,6050100004               ,3/4/2024,34.0
+723,    CDVMZPA,"KET,NATURA,12,500 G,DP,CT,ESP,M.I.",144,177,250623                        ,6040100009               ,4/20/2024,1457.0
+724,    CDVMZPA,"MAYO,CADA DIA,LINEA DEL CHEF,4,2900 CC,SH,ST (SIN TAPA),ESP,",80,159,R070723                       ,6030050074               ,4/2/2024,0.0
+725,    CDVMZPA,"MAYO,CADA DIA,LINEA DEL CHEF,4,2900 CC,SH,ST (SIN TAPA),ESP,",80,163,R110723                       ,6030050074               ,4/6/2024,2081.0
+726,    CDVMZPA,"MAYO,CADA DIA,LINEA DEL CHEF,4,2900 CC,SH,ST (SIN TAPA),ESP,",80,186,R030823                       ,6030050074               ,4/29/2024,640.0
+727,    CDVMZPA,"MAYO,CADA DIA,LINEA DEL CHEF,4,2900 CC,SH,ST (SIN TAPA),ESP,",80,190,R070823                       ,6030050074               ,5/3/2024,1200.0
+728,    CDVMZPA,"MAYO,CADA DIA,RVL,12,500 CC,L.G,DP,CT,ESP,MERCADO INTERNO",144,193,R100823                       ,6030050071               ,5/6/2024,0.0
+729,    CDVMZPA,"MAYO,CADA DIA,RVL,12,500 CC,L.G,DP,CT,ESP,MERCADO INTERNO",144,194,R110823                       ,6030050071               ,5/7/2024,7896.0
+730,    CDVMZPA,"MAYO,CADA DIA,RVL,12,500 CC,L.G,DP,CT,ESP,MERCADO INTERNO",144,195,R120823                       ,6030050071               ,5/8/2024,3946.0
+731,    CDVMZPA,"MAYO,CADA DIA,RVL,12,500 CC,L.G,DP,CT,ESP,MERCADO INTERNO",144,197,R140823                       ,6030050071               ,5/10/2024,3987.0
+732,    CDVMZPA,"MAYO,CADA DIA,RVL,12,500 CC,L.G,DP,CT,ESP,MERCADO INTERNO",144,198,R150823                       ,6030050071               ,5/11/2024,8064.0
+733,    CDVMZPA,"MAYO,CADA DIA,RVL,12,500 CC,L.G,DP,CT,ESP,MERCADO INTERNO",144,206,R230823                       ,6030050071               ,5/19/2024,3785.0
+734,    CDVMZPA,"MAYO,CADA DIA,RVL,8,1000 CC,L.G,DP,CT,ESP,MERCADO INTERNO",108,176,R240723                       ,6030050072               ,4/19/2024,0.0
+735,    CDVMZPA,"MAYO,CADA DIA,RVL,8,1000 CC,L.G,DP,CT,ESP,MERCADO INTERNO",108,177,R250723                       ,6030050072               ,4/20/2024,0.0
+736,    CDVMZPA,"MAYO,CADA DIA,RVL,8,1000 CC,L.G,DP,CT,ESP,MERCADO INTERNO",108,184,R010823                       ,6030050072               ,4/27/2024,0.0
+737,    CDVMZPA,"MAYO,CADA DIA,RVL,8,1000 CC,L.G,DP,CT,ESP,MERCADO INTERNO",108,185,R020823                       ,6030050072               ,4/28/2024,0.0
+738,    CDVMZPA,"MAYO,CADA DIA,RVL,8,1000 CC,L.G,DP,CT,ESP,MERCADO INTERNO",108,186,R030823                       ,6030050072               ,4/29/2024,3932.0
+739,    CDVMZPA,"MAYO,CADA DIA,RVL,8,1000 CC,L.G,DP,CT,ESP,MERCADO INTERNO",108,187,R040823                       ,6030050072               ,4/30/2024,2484.0
+740,    CDVMZPA,"MAYO,NATURA,RVL 31%,L.G,12,250 CC,DP,ST (SIN TAPA),ESP,M.I./",260,153,010723                        ,6030010007               ,3/27/2024,30171.0
+741,    CDVMZPA,"MAYO,NATURA,RVL 31%,L.G,12,250 CC,DP,ST (SIN TAPA),ESP,M.I./",260,165,130723                        ,6030010007               ,4/8/2024,12480.0
+742,    CDVMZPA,"MAYO,NATURA,RVL 31%,L.G,12,250 CC,DP,ST (SIN TAPA),ESP,M.I./",260,167,150723                        ,6030010007               ,4/10/2024,24960.0
+743,    CDVMZPA,"MAYO,NATURA,RVL 31%,L.G,12,250 CC,DP,ST (SIN TAPA),ESP,M.I./",260,176,240723                        ,6030010007               ,4/19/2024,56160.0
+744,    CDVMZPA,"MAYO,NATURA,RVL 31%,L.G,12,250 CC,DP,ST (SIN TAPA),ESP,M.I./",260,184,010823                        ,6030010007               ,4/27/2024,12480.0
+745,    CDVMZPA,"MAYO,NATURA,RVL 31%,L.G,12,250 CC,DP,ST (SIN TAPA),ESP,M.I./",260,187,040823                        ,6030010007               ,4/30/2024,18720.0
+746,    CDVMZPA,"MAYO,NATURA,RVL 31%,L.G,12,250 CC,DP,ST (SIN TAPA),ESP,M.I./",260,190,070823                        ,6030010007               ,5/3/2024,18718.0
+747,    CDVMZPA,"MAYO,NATURA,RVL 31%,L.G,12,250 CC,DP,ST (SIN TAPA),ESP,M.I./",260,207,240823                        ,6030010007               ,5/20/2024,37440.0
+748,    CDVMZPA,"MAYO,NATURA,RVL 31%,L.G,12,250 CC,DP,ST (SIN TAPA),ESP,M.I./",260,220,060923                        ,6030010007               ,6/2/2024,6240.0
+749,    CDVMZPA,"MAYO,NATURA,RVL 31%,L.G,12,250 CC,DP,ST (SIN TAPA),ESP,M.I./",260,222,080923                        ,6030010007               ,6/4/2024,24960.0
+750,    CDVMZPA,"MAYO,NATURA,RVL 31%,L.G,12,250 CC,DP,ST (SIN TAPA),ESP,M.I./",260,229,150923                        ,6030010007               ,6/11/2024,6240.0
+751,    CDVMZPA,"MAYO,NATURA,RVL 31%,L.G,12,250 CC,DP,ST (SIN TAPA),ESP,M.I./",260,230,160923                        ,6030010007               ,6/12/2024,18720.0
+752,    CDVMZPA,"MAYO,NATURA,RVL 31%,L.G,12,250 CC,DP,ST (SIN TAPA),ESP,M.I./",260,233,190923                        ,6030010007               ,6/15/2024,6238.0
+753,    CDVMZPA,"MAYO,NATURA,RVL 31%,L.G,12,250 CC,DP,ST (SIN TAPA),ESP,M.I./",260,251,071023                        ,6030010007               ,7/3/2024,24960.0
+754,    CDVMZPA,"MAYO,NATURA,RVL 31%,L.G,12,250 CC,DP,ST (SIN TAPA),ESP,M.I./",260,255,111023                        ,6030010007               ,7/7/2024,18720.0
+755,    CDVMZPA,"MAYO,NATURA,RVL 31%,L.G,12,250 CC,DP,ST (SIN TAPA),ESP,M.I./",260,259,151023                        ,6030010007               ,7/11/2024,24960.0
+756,    CDVMZPA,"MAYO,NATURA,RVL 31%,L.G,12,500 CC,DP,CT,ESP,M.I./ARL",144,207,240823                        ,6030010019               ,5/20/2024,0.0
+757,    CDVMZPA,"MAYO,NATURA,RVL 31%,L.G,12,500 CC,DP,CT,ESP,M.I./ARL",144,215,010923                        ,6030010019               ,5/28/2024,0.0
+758,    CDVMZPA,"MAYO,NATURA,RVL 31%,L.G,12,500 CC,DP,CT,ESP,M.I./ARL",144,224,100923                        ,6030010019               ,6/6/2024,240.0
+759,    CDVMZPA,"MAYO,NATURA,RVL 31%,L.G,12,500 CC,DP,CT,ESP,M.I./ARL",144,228,140923                        ,6030010019               ,6/10/2024,6912.0
+760,    CDVMZPA,"MAYO,NATURA,RVL 31%,L.G,12,500 CC,DP,CT,ESP,M.I./ARL",144,229,150923                        ,6030010019               ,6/11/2024,3456.0
+761,    CDVMZPA,"MAYO,NATURA,RVL 31%,L.G,12,500 CC,DP,CT,ESP,M.I./ARL",144,233,190923                        ,6030010019               ,6/15/2024,65664.0
+762,    CDVMZPA,"MAYO,NATURA,RVL 31%,L.G,12,500 CC,DP,CT,ESP,M.I./ARL",144,234,200923                        ,6030010019               ,6/16/2024,3452.0
+763,    CDVMZPA,"MAYO,NATURA,RVL 31%,L.G,20,125 CC,SH,ST (SIN TAPA),ESP,M.I./",272,161,090723                        ,6030010170               ,4/4/2024,10901.0
+764,    CDVMZPA,"MAYO,NATURA,RVL 31%,L.G,20,125 CC,SH,ST (SIN TAPA),ESP,M.I./",272,175,230723                        ,6030010170               ,4/18/2024,45696.0
+765,    CDVMZPA,"MAYO,NATURA,RVL 31%,L.G,20,125 CC,SH,ST (SIN TAPA),ESP,M.I./",272,186,030823                        ,6030010170               ,4/29/2024,13056.0
+766,    CDVMZPA,"MAYO,NATURA,RVL 31%,L.G,20,125 CC,SH,ST (SIN TAPA),ESP,M.I./",272,190,070823                        ,6030010170               ,5/3/2024,26111.0
+767,    CDVMZPA,"MAYO,NATURA,RVL 31%,L.G,20,125 CC,SH,ST (SIN TAPA),ESP,M.I./",272,197,140823                        ,6030010170               ,5/10/2024,32640.0
+768,    CDVMZPA,"MAYO,NATURA,RVL 31%,L.G,20,125 CC,SH,ST (SIN TAPA),ESP,M.I./",272,203,200823                        ,6030010170               ,5/16/2024,13056.0
+769,    CDVMZPA,"MAYO,NATURA,RVL 31%,L.G,20,125 CC,SH,ST (SIN TAPA),ESP,M.I./",272,206,220823                        ,6030010170               ,5/19/2024,45696.0
+770,    CDVMZPA,"MAYO,NATURA,RVL 31%,L.G,20,125 CC,SH,ST (SIN TAPA),ESP,M.I./",272,215,010923                        ,6030010170               ,5/28/2024,33184.0
+771,    CDVMZPA,"MAYO,NATURA,RVL 31%,L.G,20,125 CC,SH,ST (SIN TAPA),ESP,M.I./",272,220,060923                        ,6030010170               ,6/2/2024,19584.0
+772,    CDVMZPA,"MAYO,NATURA,RVL 31%,L.G,20,125 CC,SH,ST (SIN TAPA),ESP,M.I./",272,224,100923                        ,6030010170               ,6/6/2024,32640.0
+773,    CDVMZPA,"MAYO,NATURA,RVL 31%,L.G,20,125 CC,SH,ST (SIN TAPA),ESP,M.I./",272,232,180923                        ,6030010170               ,6/14/2024,6528.0
+774,    CDVMZPA,"MAYO,NATURA,RVL 31%,L.G,20,125 CC,SH,ST (SIN TAPA),ESP,M.I./",272,235,210923                        ,6030010170               ,6/17/2024,19583.0
+775,    CDVMZPA,"MAYO,NATURA,RVL 31%,L.G,20,125 CC,SH,ST (SIN TAPA),ESP,M.I./",272,238,240923                        ,6030010170               ,6/20/2024,13056.0
+776,    CDVMZPA,"MAYO,NATURA,RVL 31%,L.G,4,2900 CC,SH,ST (SIN TAPA),ESP,M.I./",80,133,110623                        ,6030010208               ,3/7/2024,2028.0
+777,    CDVMZPA,"MAYO,NATURA,RVL 31%,L.G,4,2900 CC,SH,ST (SIN TAPA),ESP,M.I./",80,139,170623                        ,6030010208               ,3/13/2024,3840.0
+778,    CDVMZPA,"MAYO,NATURA,RVL 31%,L.G,4,2900 CC,SH,ST (SIN TAPA),ESP,M.I./",80,156,040723                        ,6030010208               ,3/30/2024,7680.0
+779,    CDVMZPA,"MAYO,NATURA,RVL 31%,L.G,4,2900 CC,SH,ST (SIN TAPA),ESP,M.I./",80,165,130723                        ,6030010208               ,4/8/2024,7680.0
+780,    CDVMZPA,"MAYO,NATURA,RVL 31%,L.G,4,2900 CC,SH,ST (SIN TAPA),ESP,M.I./",80,197,140823                        ,6030010208               ,5/10/2024,13440.0
+781,    CDVMZPA,"MAYO,NATURA,RVL 31%,L.G,4,2900 CC,SH,ST (SIN TAPA),ESP,M.I./",80,220,060923                        ,6030010208               ,6/2/2024,9600.0
+782,    CDVMZPA,"MAYO,NATURA,RVL 31%,L.G,8,1000 CC,DP,CT,ESP,M.I./ARL",108,184,010823                        ,6030010026               ,4/27/2024,13556.0
+783,    CDVMZPA,"MAYO,NATURA,RVL 31%,L.G,8,1000 CC,DP,CT,ESP,M.I./ARL",108,215,010923                        ,6030010026               ,5/28/2024,2592.0
+784,    CDVMZPA,"MAYO,NATURA,RVL 31%,L.G,8,1000 CC,DP,CT,ESP,M.I./ARL",108,224,100923                        ,6030010026               ,6/6/2024,5180.0
+785,    CDVMZPA,"MOSTAZA,ADEREZO NATURA,12,250GR,DP,CT,ESP,M.I.",260,186,040723                        ,6090020009               ,4/29/2024,3310.0
+786,    CDVMZPA,"MOSTAZA,ADEREZO NATURA,12,250GR,DP,CT,ESP,M.I.",260,220,070823                        ,6090020009               ,6/2/2024,18060.0
+787,    CDVMZPA,"SGOLF,NATURA L.G.,12,250 GR,DP,ST (SIN TAPA),ESP,MERCADO INT",260,184,010823                        ,6050100007               ,4/27/2024,12475.0

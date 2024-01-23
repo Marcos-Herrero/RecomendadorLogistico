@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+
+  <meta charset="utf-8">
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+
+  <title>Recomendador Logístico AGD</title>
+  <meta content="" name="description">
+  <meta content="" name="keywords">
+
+  <!---cdn bootrap-->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+
+
+  <!-- Favicons -->
+  <link href="assets/img/favicon.png" rel="icon">
+  <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
+  
+  <!-- Template Main CSS File -->
+  <link
+  rel="stylesheet"
+  type="text/css"
+  href="{{ url_for('static',filename='styles/style.css') }}"
+/>
+</head>
+
+<body>
+
+  <header class="header py-7">
+    <div class="row pt-4 pb-2">
+      <div class="col-lg-4 pt-5">
+        <div class="container">
+          <div class="header-body text-center ml-2 mb-7">
+            <div class="row justify-content-center">
+              <div class="col-md-12">
+                <div class="pb-4">
+        <a href="/">
+          <img
+            id="img-logo"
+            alt="AGD"
+            src="/static/images/logo.png"
+          />
+          </a>
+        </div>
+        <br>
+      <div class="">
+        <a>
+          <img
+            class="pt-4 img1"
+            alt="logistica"
+            src="/static/images/logistica.png"
+          />
+          </a>
+      </div>
+              </div>
+             
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-lg-8">
+    
+      <div class="">
+        <div class="container">
+        <div class="card shadow border-0">
+          <div class="card-body">
+          <div class="container pl-4">
+            <h1><b>Ha Ocurrido Un Problema</b></h1>
+          </div>
+          <hr/>
+            {% block contenido %}
+            <h1>{{error}}</h1>
+            <div class="col-md-2 offset-5 pt-1">
+              <img src="{{ url_for('static', filename='images/cancelar.png') }}" alt=""/>
+            </div>
+            {% endblock %}
+          </div>
+        </div>
+      
+        </div>
+      </div>
+    
+    </div>
+      </div>
+    </div>
+  </header>
+
+</body>

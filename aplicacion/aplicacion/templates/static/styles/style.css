@@ -1,0 +1,101 @@
+/*General*/
+body {
+    font-family: "Open Sans", sans-serif;
+    color: #444444;
+    display: flexbox;
+    position: center;
+  }
+  
+  h1, h2, h3, h4, h5, h6 {
+    font-family: "Nunito", sans-serif;
+    color: #ffffff;
+    font-size: 25px;
+  }
+
+  .img1 {
+    width: 334px;
+    height: 335px;
+    position: fixed;
+    right: 950px;
+    top: 200px;
+  }
+
+
+/*Card*/
+
+.card {
+    width: 550px;
+    padding: 10px;
+    border-radius: 20px;
+    background: #fff;
+    border: none;
+    height: 350px;
+    position: center;
+    box-shadow: 0px 16px 20px 2px rgba(1, 32, 78, 0.5);
+
+    }
+
+.container {
+    height: 10vh
+}
+
+body {
+    background:linear-gradient(90deg, rgba(33,67,149,1) 35%, rgb(9, 82, 228) 100%);
+    
+}
+
+.mobile-text {
+    color: #989696b8;
+    font-size: 15px
+}
+
+.form-control {
+    margin-right: 12px
+}
+
+.form-control:focus {
+    color: #495057;
+    background-color: #fff;
+    border-color: #ff8880;
+    outline: 0;
+    box-shadow: none
+}
+
+.cursor {
+    cursor: pointer
+}
+
+/*Header*/
+  
+  #header.header-scrolled {
+    padding: 1px 0;
+    box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.1);
+  }
+  #header .logo img {
+    max-height: 70px;
+  }
+
+  /*Form*/
+
+  #submit
+  {
+position: absolute;
+width: 181px;
+height: 48px;
+left: 467px;
+top: 552px;
+
+background: #3D73DC;
+border-radius: 10px;
+
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 27px;
+text-align: center;
+
+color: #FFFFFF;
+
+transform: rotate(0.16deg);
+  }

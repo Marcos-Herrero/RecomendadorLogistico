@@ -1,0 +1,48 @@
+nohup: ignoring input
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: off
+Warning: Silently ignoring app.run() because the application is run from the flask command line executable. Consider putting app.run() behind an if __name__ == "__main__" guard to silence this warning.
+             fecha_rec parametros salidas
+0  2023-12-06 09:07:33       test    test
+Connection to MicroStrategy Intelligence Server has been established.
+Report object named: 'PREFERENCIA CLIENTES 3' with ID: '247B78AD4160C83FBE1CC39BD22B4508'
+Initializing an instance of a report. Please wait...                                                    Downloading:   0%|          | 0/2 [00:00<?, ?it/s]Downloading: 100%|██████████| 2/2 [00:00<00:00, 11.60it/s]Downloading: 100%|██████████| 2/2 [00:00<00:00, 11.60it/s, rows=21001]Downloading: 100%|██████████| 2/2 [00:00<00:00,  6.38it/s, rows=21001]
+Report object named: 'Reporte Pedidos SD Liberados para Recomendador Warehouse' with ID: '72B9ACBB478848E8882271A652BA42BB'
+Initializing an instance of a report. Please wait...                                                    True
+Connection to MicroStrategy Intelligence Server has been closed
+Traceback (most recent call last):
+  File "/home/emarcelloni@agdcorp.com.ar/.conda/envs/mstr37-dev/bin/flask", line 8, in <module>
+    sys.exit(main())
+  File "/home/emarcelloni@agdcorp.com.ar/.conda/envs/mstr37-dev/lib/python3.7/site-packages/flask/cli.py", line 988, in main
+    cli.main()
+  File "/home/emarcelloni@agdcorp.com.ar/.conda/envs/mstr37-dev/lib/python3.7/site-packages/flask/cli.py", line 579, in main
+    return super().main(*args, **kwargs)
+  File "/home/emarcelloni@agdcorp.com.ar/.conda/envs/mstr37-dev/lib/python3.7/site-packages/click/core.py", line 1078, in main
+    rv = self.invoke(ctx)
+  File "/home/emarcelloni@agdcorp.com.ar/.conda/envs/mstr37-dev/lib/python3.7/site-packages/click/core.py", line 1688, in invoke
+    return _process_result(sub_ctx.command.invoke(sub_ctx))
+  File "/home/emarcelloni@agdcorp.com.ar/.conda/envs/mstr37-dev/lib/python3.7/site-packages/click/core.py", line 1434, in invoke
+    return ctx.invoke(self.callback, **ctx.params)
+  File "/home/emarcelloni@agdcorp.com.ar/.conda/envs/mstr37-dev/lib/python3.7/site-packages/click/core.py", line 783, in invoke
+    return __callback(*args, **kwargs)
+  File "/home/emarcelloni@agdcorp.com.ar/.conda/envs/mstr37-dev/lib/python3.7/site-packages/click/decorators.py", line 92, in new_func
+    return ctx.invoke(f, obj, *args, **kwargs)
+  File "/home/emarcelloni@agdcorp.com.ar/.conda/envs/mstr37-dev/lib/python3.7/site-packages/click/core.py", line 783, in invoke
+    return __callback(*args, **kwargs)
+  File "/home/emarcelloni@agdcorp.com.ar/.conda/envs/mstr37-dev/lib/python3.7/site-packages/flask/cli.py", line 850, in run_command
+    app = DispatchingApp(info.load_app, use_eager_loading=eager_loading)
+  File "/home/emarcelloni@agdcorp.com.ar/.conda/envs/mstr37-dev/lib/python3.7/site-packages/flask/cli.py", line 299, in __init__
+    self._load_unlocked()
+  File "/home/emarcelloni@agdcorp.com.ar/.conda/envs/mstr37-dev/lib/python3.7/site-packages/flask/cli.py", line 333, in _load_unlocked
+    self._app = rv = self.loader()
+  File "/home/emarcelloni@agdcorp.com.ar/.conda/envs/mstr37-dev/lib/python3.7/site-packages/flask/cli.py", line 393, in load_app
+    app = locate_app(import_name, None, raise_if_not_found=False)
+  File "/home/emarcelloni@agdcorp.com.ar/.conda/envs/mstr37-dev/lib/python3.7/site-packages/flask/cli.py", line 234, in locate_app
+    __import__(module_name)
+  File "/home/emarcelloni@agdcorp.com.ar/dev/AIRecomendadorLogistica/aplicacion/aplicacion/app.py", line 40, in <module>
+    print("STOCK ACTUAL:",stock_df.deposito.unique())
+  File "/home/emarcelloni@agdcorp.com.ar/.conda/envs/mstr37-dev/lib/python3.7/site-packages/pandas/core/generic.py", line 5465, in __getattr__
+    return object.__getattribute__(self, name)
+AttributeError: 'DataFrame' object has no attribute 'deposito'

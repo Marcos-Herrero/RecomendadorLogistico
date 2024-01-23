@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+  <title>Recomendador Logístico AGD</title>
+  <link href="assets/img/favicon.png" rel="icon">
+  <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet">
+  <link href="./static/styles/style.css" rel="stylesheet">
+</head>
+<body>
+  <center>
+    <header id="header" class="fixed-top d-flex align-items-center">
+      <div class="container d-flex align-items-center">
+        <div class="card py-5 px-3">
+          <h2>Descargando reportes...</h2>
+          <div id="loader"></div>
+          <script>
+            window.onload = function() {
+                setTimeout(function() {
+                  window.location.href = "/generar-reporte";
+                }, 2000); // Espera 2 segundos antes de iniciar la descarga
+            };
+          </script>
+        </div>
+      </div>
+    </header>
+  </center>
+
+  <style>
+    #loader {
+      border: 5px solid #f3f3f3;
+      border-top: 5px solid #3498db;
+      border-radius: 50%;
+      width: 40px;
+      height: 40px;
+      animation: spin 2s linear infinite;
+      margin: 20px auto;
+    }
+    @keyframes spin {
+      0% { transform: rotate(0deg); }
+      100% { transform: rotate(360deg); }
+    }
+  </style>
+</body>
+</html>

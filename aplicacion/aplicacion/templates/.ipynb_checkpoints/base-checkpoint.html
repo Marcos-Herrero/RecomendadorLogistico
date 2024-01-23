@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+
+  <meta charset="utf-8">
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+
+  <title>Recomendador Logístico AGD</title>
+  <meta content="" name="description">
+  <meta content="" name="keywords">
+
+  <!-- Favicons -->
+  <link href="assets/img/favicon.png" rel="icon">
+  <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i|Nunito:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
+  
+  
+  <!-- Template Main CSS File -->
+  <link rel= "stylesheet" type= "text/css" href= "{{ url_for('static',filename='styles/style.css') }}">
+</head>
+
+<body>
+  <!-- <center> -->
+    <!-- ======= Header ======= -->
+      <header id="header" class="fixed-top d-flex align-items-center">
+        <div class="container d-flex align-items-center">
+        <a href="base.html" class="logo me-auto"><img src="{{url_for('static', filename='images/logo.png')}}" alt="logo AGD"></a>
+        <img class="img1" src="{{url_for('static', filename='images/logistica.png')}}" alt="foto hombre logistica">
+        <h1>¡Hola! Ingrese los parámetros</h1>
+     
+    <!--Form -->
+      <div class="d-flex justify-content-center align-items-center container">
+        <div class="card py-5">
+
+          <!--Begin Code-->
+          {% extends "bootstrap/base.html" %}
+          {% block navbar %}
+
+          <nav class="navbar navbar-inverse navbar-fixed-top">
+            <div class="container">
+                <!-- <div class="navbar-header">
+                    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+                      <span class="sr-only">Toggle navigation</span>
+                      <span class="icon-bar"></span>
+                      <span class="icon-bar"></span>
+                      <span class="icon-bar"></span>
+                    </button>
+                    <br>
+                    <!--<a class="navbar-brand" href="#">Logística AGD S.A</a>-->
+                </div> -->
+              </div>
+            </nav>
+
+            <!-- Main jumbotron for a primary marketing message or call to action -->
+            <div class="jumbotron">
+              <div class="container">
+               
+              </div>
+            </div>
+
+          {% endblock %}
+          {% block content %}
+
+          <div class="container-fluid">
+            <div class="row">
+              <div class="col-md-3"></div>
+              <div class="col-md-8">
+               {% block contenido %}{% endblock %}
+              </div>
+            </div>
+          </div>
+                  
+          {% endblock %}
+  </div>
+</div>
+
+<!--End Code-->
+
+<!-- </center> -->
+</body>
